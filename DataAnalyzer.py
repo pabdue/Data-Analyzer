@@ -1,8 +1,9 @@
 # ------------------------------------------------------------------------------
 # Author: Pablo Duenas
 # Date: August 8, 2023
-# Description:
-#
+# Description: This project is a data preprocessing and analysis tool that 
+# provides features to remove outliers, clean string data, perform optional operations, 
+# calculate basic statistics, and generate visualizations (scatter, histogram, boxplot).
 # ------------------------------------------------------------------------------
 
 import pandas as pd
@@ -125,21 +126,24 @@ def main():
     filePath = path + fileName
 
     # file format validation and creation of data frame
-    if '.csv' in fileName:
-        try:
-            # Create data frame from csv 
-            df = pd.read_csv(filePath)
-        except(FileNotFoundError, UnicodeDecodeError):
-            print('\033[91m' + "Error reading the dataset. Please check the file name and/or encoding." + '\033[0m')
-    elif '.xlsx' in fileName:
-        try:
-            # Create data frame from excel
-            sheet_name = input('\033[92m' + "Specify sheet name: " + '\033[0m')
-            df = pd.read_excel(filePath, sheet_name=sheet_name)
-        except:
-            print('\033[91m' + "Error reading the dataset. Please check the file name and/or encoding." + '\033[0m')
-    else:
-        print('\033[91m' + "\nThis file format is not supported. Please try again with a CSV or Excel file." + '\033[0m')
+    try:
+        if '.csv' in fileName:
+            try:
+                # Create data frame from csv 
+                df = pd.read_csv(filePath)
+            except(FileNotFoundError, UnicodeDecodeError):
+                print('\033[91m' + "Error reading the dataset. Please check the file name and/or encoding." + '\033[0m')
+        elif '.xlsx' in fileName:
+            try:
+                # Create data frame from excel
+                sheet_name = input('\033[92m' + "Specify sheet name: " + '\033[0m')
+                df = pd.read_excel(filePath, sheet_name=sheet_name)
+            except:
+                print('\033[91m' + "Error reading the dataset. Please check the file name and/or encoding." + '\033[0m')
+        else:
+            print('\033[91m' + "\nThis file format is not supported. Please try again with a CSV or Excel file." + '\033[0m')
+    except:
+        print('\033[93m' + "Try again." + '\033[0m')
 
     # Display number of rows before preprocessing
     numOfRows = df.shape[0]

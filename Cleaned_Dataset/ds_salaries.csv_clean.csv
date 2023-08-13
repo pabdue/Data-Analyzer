@@ -1,0 +1,2397 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2023,se,ft,principal data scientist,80000,eur,85847,es,100,es,l
+2023,mi,ct,ml engineer,30000,usd,30000,us,100,us,s
+2023,mi,ct,ml engineer,25500,usd,25500,us,100,us,s
+2023,se,ft,data scientist,175000,usd,175000,ca,100,ca,m
+2023,se,ft,data scientist,120000,usd,120000,ca,100,ca,m
+2023,se,ft,applied scientist,222200,usd,222200,us,0,us,l
+2023,se,ft,applied scientist,136000,usd,136000,us,0,us,l
+2023,se,ft,data scientist,219000,usd,219000,ca,0,ca,m
+2023,se,ft,data scientist,141000,usd,141000,ca,0,ca,m
+2023,se,ft,data scientist,147100,usd,147100,us,0,us,m
+2023,se,ft,data scientist,90700,usd,90700,us,0,us,m
+2023,se,ft,data analyst,130000,usd,130000,us,100,us,m
+2023,se,ft,data analyst,100000,usd,100000,us,100,us,m
+2023,en,ft,applied scientist,213660,usd,213660,us,0,us,l
+2023,en,ft,applied scientist,130760,usd,130760,us,0,us,l
+2023,se,ft,data modeler,147100,usd,147100,us,0,us,m
+2023,se,ft,data modeler,90700,usd,90700,us,0,us,m
+2023,se,ft,data scientist,170000,usd,170000,us,0,us,m
+2023,se,ft,data scientist,150000,usd,150000,us,0,us,m
+2023,mi,ft,data analyst,150000,usd,150000,us,100,us,m
+2023,mi,ft,data analyst,110000,usd,110000,us,100,us,m
+2023,se,ft,research engineer,275000,usd,275000,de,0,de,m
+2023,se,ft,research engineer,174000,usd,174000,de,0,de,m
+2023,se,ft,analytics engineer,230000,usd,230000,gb,100,gb,m
+2023,se,ft,analytics engineer,143200,usd,143200,gb,100,gb,m
+2023,se,ft,business intelligence engineer,225000,usd,225000,us,0,us,m
+2023,se,ft,business intelligence engineer,156400,usd,156400,us,0,us,m
+2023,se,ft,machine learning engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,machine learning engineer,130000,usd,130000,us,0,us,m
+2023,se,ft,data strategist,90000,usd,90000,ca,0,ca,m
+2023,se,ft,data strategist,72000,usd,72000,ca,0,ca,m
+2023,se,ft,data engineer,253200,usd,253200,us,0,us,m
+2023,se,ft,data engineer,90700,usd,90700,us,0,us,m
+2023,se,ft,computer vision engineer,184590,usd,184590,us,0,us,m
+2023,mi,ft,data engineer,162500,usd,162500,us,0,us,m
+2023,mi,ft,data engineer,130000,usd,130000,us,0,us,m
+2023,mi,ft,data analyst,105380,usd,105380,us,0,us,m
+2023,mi,ft,data analyst,64500,usd,64500,us,0,us,m
+2023,en,ft,data quality analyst,100000,usd,100000,ng,100,ng,l
+2023,en,ft,compliance data analyst,30000,usd,30000,ng,100,ng,l
+2023,en,ft,applied scientist,204620,usd,204620,us,0,us,l
+2023,en,ft,applied scientist,110680,usd,110680,us,0,us,l
+2023,se,ft,data engineer,270703,usd,270703,us,0,us,m
+2023,se,ft,data engineer,221484,usd,221484,us,0,us,m
+2023,se,ft,data scientist,212750,usd,212750,us,100,us,m
+2023,se,ft,data scientist,185000,usd,185000,us,100,us,m
+2023,se,ft,data scientist,262000,usd,262000,us,100,us,m
+2023,se,ft,data scientist,245000,usd,245000,us,100,us,m
+2023,se,ft,data scientist,275300,usd,275300,us,100,us,m
+2023,se,ft,data scientist,183500,usd,183500,us,100,us,m
+2023,se,ft,data scientist,218500,usd,218500,us,100,us,m
+2023,se,ft,data scientist,199098,usd,199098,us,100,us,m
+2023,se,ft,data engineer,203300,usd,203300,us,100,us,m
+2023,se,ft,data engineer,123600,usd,123600,us,100,us,m
+2023,se,ft,research engineer,189110,usd,189110,us,0,us,m
+2023,se,ft,research engineer,139000,usd,139000,us,0,us,m
+2023,ex,ft,data scientist,258750,usd,258750,us,0,us,m
+2023,ex,ft,data scientist,185000,usd,185000,us,0,us,m
+2023,se,ft,data engineer,231500,usd,231500,us,100,us,m
+2023,se,ft,data engineer,166000,usd,166000,us,100,us,m
+2023,se,ft,data scientist,172500,usd,172500,us,100,us,m
+2023,se,ft,data scientist,110500,usd,110500,us,100,us,m
+2023,se,ft,data engineer,238000,usd,238000,us,0,us,m
+2023,se,ft,data engineer,176000,usd,176000,us,0,us,m
+2023,se,ft,data engineer,237000,usd,237000,us,100,us,m
+2023,se,ft,data engineer,201450,usd,201450,us,100,us,m
+2023,se,ft,applied scientist,159100,usd,159100,us,0,us,l
+2023,se,ft,data engineer,115000,usd,115000,us,0,us,m
+2023,se,ft,data engineer,81500,usd,81500,us,0,us,m
+2023,se,ft,data scientist,237000,usd,237000,us,100,us,m
+2023,se,ft,data scientist,201450,usd,201450,us,100,us,m
+2023,se,ft,computer vision engineer,280000,usd,280000,us,0,us,m
+2023,se,ft,computer vision engineer,210000,usd,210000,us,0,us,m
+2023,se,ft,data architect,280100,usd,280100,us,100,us,m
+2023,se,ft,data architect,168100,usd,168100,us,100,us,m
+2023,se,ft,data engineer,193500,usd,193500,us,100,us,m
+2023,se,ft,data engineer,139000,usd,139000,us,100,us,m
+2023,se,ft,machine learning engineer,150000,usd,150000,pt,100,us,m
+2023,mi,ft,applied machine learning engineer,65000,eur,69751,in,100,de,s
+2023,mi,ft,machine learning engineer,90000,eur,96578,nl,100,nl,l
+2023,se,ft,business intelligence engineer,185900,usd,185900,us,0,us,m
+2023,se,ft,business intelligence engineer,129300,usd,129300,us,0,us,m
+2023,se,ft,data engineer,225000,usd,225000,us,100,us,m
+2023,se,ft,data engineer,175000,usd,175000,us,100,us,m
+2023,se,ft,data engineer,185000,usd,185000,us,0,us,m
+2023,se,ft,data engineer,140000,usd,140000,us,0,us,m
+2023,se,ft,data scientist,45000,eur,48289,es,0,es,m
+2023,se,ft,data scientist,36000,eur,38631,es,0,es,m
+2023,se,ft,data scientist,105000,usd,105000,us,0,us,m
+2023,se,ft,data scientist,70000,usd,70000,us,0,us,m
+2023,en,ft,machine learning engineer,163196,usd,163196,us,0,us,m
+2023,en,ft,machine learning engineer,145885,usd,145885,us,0,us,m
+2023,se,ft,data engineer,217000,usd,217000,us,100,us,m
+2023,se,ft,data engineer,185000,usd,185000,us,100,us,m
+2023,se,ft,data analyst,202800,usd,202800,us,0,us,l
+2023,se,ft,data analyst,104300,usd,104300,us,0,us,l
+2023,se,ft,data analyst,145000,usd,145000,us,0,us,m
+2023,se,ft,data analyst,65000,usd,65000,us,0,us,m
+2023,se,ft,data engineer,165000,usd,165000,us,0,us,m
+2023,se,ft,data engineer,132300,usd,132300,us,0,us,m
+2023,se,ft,data engineer,179170,usd,179170,us,0,us,m
+2023,se,ft,data engineer,94300,usd,94300,us,0,us,m
+2023,se,ft,analytics engineer,152500,usd,152500,us,0,us,m
+2023,se,ft,analytics engineer,116450,usd,116450,us,0,us,m
+2023,se,ft,data engineer,247300,usd,247300,us,0,us,m
+2023,se,ft,data engineer,133800,usd,133800,us,0,us,m
+2023,se,ft,research engineer,203000,usd,203000,us,0,us,m
+2023,se,ft,research engineer,133000,usd,133000,us,0,us,m
+2023,en,ft,research scientist,220000,usd,220000,us,50,us,l
+2022,en,ft,machine learning engineer,54000,chf,56536,ch,100,ch,s
+2023,se,ft,data scientist,120000,usd,120000,us,0,us,m
+2023,se,ft,analytics engineer,214000,usd,214000,us,0,us,m
+2023,se,ft,analytics engineer,179820,usd,179820,us,0,us,m
+2023,se,ft,analytics engineer,143860,usd,143860,us,0,us,m
+2023,se,ft,machine learning engineer,283200,usd,283200,us,100,us,m
+2023,se,ft,machine learning engineer,188800,usd,188800,us,100,us,m
+2023,se,ft,analytics engineer,214200,usd,214200,us,0,us,m
+2023,se,ft,data engineer,185900,usd,185900,us,0,us,m
+2023,se,ft,data engineer,129300,usd,129300,us,0,us,m
+2023,se,ft,data engineer,252000,usd,252000,us,0,us,m
+2023,se,ft,data engineer,129000,usd,129000,us,0,us,m
+2023,mi,ft,data analytics manager,155000,usd,155000,us,0,us,m
+2023,mi,ft,data analytics manager,140000,usd,140000,us,0,us,m
+2023,se,ft,data engineer,161800,usd,161800,us,100,us,m
+2023,se,ft,data engineer,141600,usd,141600,us,100,us,m
+2023,se,ft,machine learning engineer,176100,usd,176100,us,0,us,l
+2023,mi,ft,data engineer,100000,usd,100000,us,100,us,m
+2023,mi,ft,data engineer,70000,usd,70000,us,100,us,m
+2023,en,ft,data engineer,85000,usd,85000,us,0,us,m
+2023,en,ft,data engineer,65000,usd,65000,us,0,us,m
+2023,se,ft,data scientist,138784,usd,138784,us,100,us,m
+2023,se,ft,data scientist,83270,usd,83270,us,100,us,m
+2023,en,ft,data analyst,75000,usd,75000,us,0,us,m
+2023,en,ft,data analyst,70000,usd,70000,us,0,us,m
+2023,se,ft,data analyst,204500,usd,204500,us,0,us,m
+2023,se,ft,data analyst,138900,usd,138900,us,0,us,m
+2023,se,ft,machine learning engineer,212200,usd,212200,us,100,us,m
+2023,se,ft,data engineer,95000,usd,95000,us,100,us,m
+2023,se,ft,data engineer,75000,usd,75000,us,100,us,m
+2023,se,ft,data scientist,195000,usd,195000,us,0,us,m
+2023,se,ft,data scientist,160000,usd,160000,us,0,us,m
+2023,se,ft,analytics engineer,230000,usd,230000,us,0,us,m
+2023,se,ft,analytics engineer,143200,usd,143200,us,0,us,m
+2023,mi,ft,business data analyst,105000,usd,105000,us,50,us,l
+2023,mi,ft,data analyst,38000,gbp,46178,gb,0,gb,m
+2023,mi,ft,data analyst,35000,gbp,42533,gb,0,gb,m
+2023,se,ft,data engineer,145000,usd,145000,us,0,us,m
+2023,se,ft,data analyst,168400,usd,168400,us,0,us,m
+2023,se,ft,data analyst,105200,usd,105200,us,0,us,m
+2023,se,ft,machine learning engineer,190000,usd,190000,us,0,us,m
+2023,se,ft,machine learning engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,analytics engineer,150000,usd,150000,us,100,us,m
+2023,se,ft,analytics engineer,120000,usd,120000,us,100,us,m
+2023,se,ft,data engineer,120000,usd,120000,us,0,us,m
+2023,se,ft,data analyst,45000,gbp,54685,cf,100,cf,m
+2023,se,ft,data analyst,35000,gbp,42533,cf,100,cf,m
+2023,se,ft,data engineer,241000,usd,241000,us,0,us,m
+2023,se,ft,data engineer,155000,usd,155000,us,0,us,m
+2023,se,ft,data engineer,220000,usd,220000,us,100,us,m
+2023,se,ft,data engineer,190000,usd,190000,us,100,us,m
+2023,mi,ft,data scientist,55000,gbp,66837,gb,0,gb,m
+2023,mi,ft,data scientist,45000,gbp,54685,gb,0,gb,m
+2023,mi,ft,etl engineer,70000,gbp,85066,gb,100,gb,m
+2023,mi,ft,etl engineer,47500,gbp,57723,gb,100,gb,m
+2023,en,ft,data analyst,85000,usd,85000,us,100,us,m
+2023,en,ft,data analyst,75000,usd,75000,us,100,us,m
+2023,se,ft,data engineer,160000,usd,160000,us,0,us,m
+2023,mi,ft,machine learning engineer,250000,usd,250000,us,0,us,m
+2023,se,ft,data scientist,228000,usd,228000,us,0,us,m
+2023,se,ft,data scientist,186000,usd,186000,us,0,us,m
+2023,se,ft,data scientist,190000,usd,190000,us,0,us,m
+2023,mi,ft,research engineer,230000,usd,230000,us,0,us,m
+2023,mi,ft,research engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,data architect,180000,usd,180000,us,100,us,m
+2023,se,ft,data architect,115000,usd,115000,us,100,us,m
+2023,se,ft,data architect,200000,usd,200000,us,100,us,m
+2023,se,ft,data devops engineer,50000,eur,53654,fr,50,fr,s
+2023,ex,ft,data engineer,220000,usd,220000,us,0,us,m
+2023,ex,ft,data engineer,205000,usd,205000,us,0,us,m
+2023,mi,ft,data engineer,180000,usd,180000,us,0,us,m
+2023,se,ft,data engineer,200000,usd,200000,us,100,us,m
+2023,se,ft,data engineer,150000,usd,150000,us,100,us,m
+2023,se,ft,computer vision engineer,215000,usd,215000,us,0,us,m
+2023,se,ft,computer vision engineer,170000,usd,170000,us,0,us,m
+2023,se,ft,machine learning engineer,247500,usd,247500,us,0,us,m
+2023,se,ft,machine learning engineer,172200,usd,172200,us,0,us,m
+2023,se,ft,data scientist,224000,usd,224000,ca,0,ca,m
+2023,se,ft,data scientist,176000,usd,176000,ca,0,ca,m
+2023,se,ft,data analyst,120000,usd,120000,us,100,us,m
+2023,se,ft,data analyst,75000,usd,75000,us,100,us,m
+2023,se,ft,applied data scientist,100000,aud,68318,au,100,fi,m
+2023,mi,ft,ai developer,100000,sgd,75020,fi,0,fi,m
+2023,se,ft,data analyst,140000,usd,140000,us,0,us,m
+2023,se,ft,data analyst,120000,usd,120000,us,0,us,m
+2023,se,ft,data engineer,128000,usd,128000,us,0,us,m
+2023,ex,ft,head of data,269600,usd,269600,us,0,us,m
+2023,se,ft,data quality analyst,100000,usd,100000,us,0,us,m
+2023,se,ft,data quality analyst,80000,usd,80000,us,0,us,m
+2023,se,ft,data scientist,250000,usd,250000,us,0,us,m
+2023,se,ft,data scientist,162500,usd,162500,us,0,us,m
+2023,mi,ft,ai developer,200000,usd,200000,us,100,us,m
+2023,se,ft,data engineer,100000,usd,100000,us,0,us,m
+2023,ex,ft,data engineer,145000,usd,145000,us,0,us,m
+2023,ex,ft,data engineer,115000,usd,115000,us,0,us,m
+2023,se,ft,data scientist,203500,usd,203500,us,0,us,m
+2023,se,ft,data scientist,152000,usd,152000,us,0,us,m
+2023,se,ft,data scientist,239000,usd,239000,us,0,us,l
+2023,se,ft,data scientist,122900,usd,122900,us,0,us,l
+2023,se,ft,data scientist,237000,usd,237000,us,0,us,m
+2023,se,ft,data scientist,145000,usd,145000,us,0,us,m
+2023,se,ft,data science manager,191765,usd,191765,us,0,us,m
+2023,se,ft,data science manager,134236,usd,134236,us,0,us,m
+2023,se,ft,analytics engineer,190000,usd,190000,us,100,us,m
+2023,se,ft,analytics engineer,112000,usd,112000,us,100,us,m
+2022,se,ft,data scientist,84000,eur,88256,es,100,gb,l
+2023,se,ft,data analyst,135000,usd,135000,us,0,us,m
+2023,se,ft,data analyst,105500,usd,105500,us,0,us,m
+2023,se,ft,research engineer,185000,usd,185000,us,0,us,m
+2023,se,ft,data analyst,80000,usd,80000,us,0,us,m
+2023,se,ft,data analyst,70000,usd,70000,us,0,us,m
+2023,se,ft,data engineer,160000,usd,160000,us,100,us,m
+2023,se,ft,data scientist,175000,usd,175000,us,100,us,m
+2023,se,ft,data scientist,145000,usd,145000,us,100,us,m
+2023,se,ft,data analyst,200000,usd,200000,us,0,us,m
+2023,se,ft,data analyst,148500,usd,148500,us,0,us,m
+2023,se,ft,data engineer,240500,usd,240500,us,0,us,l
+2023,se,ft,data engineer,123700,usd,123700,us,0,us,l
+2023,se,ft,analytics engineer,152900,usd,152900,us,100,us,m
+2023,se,ft,analytics engineer,117100,usd,117100,us,100,us,m
+2023,se,ft,analytics engineer,173000,usd,173000,us,100,us,m
+2023,se,ft,analytics engineer,113000,usd,113000,us,100,us,m
+2023,se,ft,applied scientist,260000,usd,260000,us,0,us,l
+2023,ex,ft,data engineer,175000,usd,175000,us,0,us,m
+2023,ex,ft,data engineer,110000,usd,110000,us,0,us,m
+2023,se,ft,research scientist,130000,usd,130000,us,100,us,m
+2023,se,ft,research scientist,110000,usd,110000,us,100,us,m
+2023,se,ft,applied scientist,205000,usd,205000,us,100,us,m
+2023,se,ft,applied scientist,184000,usd,184000,us,100,us,m
+2023,se,ft,data analyst,149500,usd,149500,us,100,us,m
+2023,se,ft,data analyst,127075,usd,127075,us,100,us,m
+2023,se,ft,data engineer,219535,usd,219535,us,100,us,m
+2023,se,ft,data engineer,146115,usd,146115,us,100,us,m
+2023,se,ft,data scientist,135000,usd,135000,us,0,us,m
+2023,se,ft,data scientist,199000,usd,199000,us,0,us,m
+2023,se,ft,data scientist,162000,usd,162000,us,0,us,m
+2023,ex,ft,analytics engineer,221000,usd,221000,us,100,us,m
+2023,ex,ft,analytics engineer,153000,usd,153000,us,100,us,m
+2023,se,ft,data analyst,187000,usd,187000,us,0,us,m
+2023,se,ft,data analyst,128000,usd,128000,us,0,us,m
+2023,se,ft,research scientist,210000,usd,210000,us,0,us,m
+2023,se,ft,research scientist,136000,usd,136000,us,0,us,m
+2023,se,ft,data scientist,100000,usd,100000,us,100,us,m
+2023,se,ft,data engineer,179000,usd,179000,us,0,us,m
+2023,se,ft,data engineer,109000,usd,109000,us,0,us,m
+2023,se,ft,data scientist,245000,usd,245000,us,0,us,m
+2023,se,ft,data scientist,180000,usd,180000,us,0,us,m
+2023,se,ft,data analyst,142000,usd,142000,us,100,us,m
+2023,se,ft,data manager,198800,usd,198800,us,0,us,m
+2023,se,ft,data manager,105200,usd,105200,us,0,us,m
+2023,se,ft,data analyst,125000,usd,125000,us,100,us,m
+2023,se,ft,data analyst,112000,usd,112000,us,100,us,m
+2023,se,ft,data scientist,210000,usd,210000,us,0,us,m
+2023,se,ft,data scientist,155000,usd,155000,us,0,us,m
+2023,se,ft,data manager,115000,usd,115000,us,100,us,m
+2023,se,ft,data manager,86000,usd,86000,us,100,us,m
+2023,se,ft,data scientist,165000,usd,165000,us,0,us,m
+2023,se,ft,data scientist,140000,usd,140000,us,0,us,m
+2023,se,ft,data analyst,139000,usd,139000,us,0,us,m
+2023,se,ft,data analyst,106000,usd,106000,us,0,us,m
+2023,en,ft,data analyst,55000,cad,40663,ca,0,ca,l
+2022,se,ft,ai developer,275000,usd,275000,ca,0,ca,s
+2023,se,fl,machine learning researcher,50000,usd,50000,ua,50,ua,s
+2023,mi,ft,machine learning engineer,280700,usd,280700,us,100,us,m
+2023,mi,ft,machine learning engineer,150450,usd,150450,us,100,us,m
+2023,en,ft,data scientist,70000,cad,51753,ca,100,ca,l
+2023,se,ft,data architect,250500,usd,250500,us,0,us,m
+2023,se,ft,data architect,159500,usd,159500,us,0,us,m
+2023,en,ft,data scientist,130001,usd,130001,us,100,us,m
+2023,en,ft,data scientist,71907,usd,71907,us,100,us,m
+2023,mi,ft,data scientist,93918,usd,93918,us,100,us,m
+2023,mi,ft,data scientist,51962,usd,51962,us,100,us,m
+2023,se,ft,data analyst,175000,usd,175000,ca,100,ca,m
+2023,se,ft,data analyst,135000,usd,135000,ca,100,ca,m
+2023,se,ft,machine learning engineer,257000,usd,257000,us,0,us,m
+2023,se,ft,machine learning engineer,147000,usd,147000,us,0,us,m
+2023,se,ft,data engineer,222000,usd,222000,us,100,us,m
+2023,se,ft,data scientist,203000,usd,203000,us,100,us,m
+2023,se,ft,data scientist,133200,usd,133200,us,100,us,m
+2023,se,ft,data engineer,221000,usd,221000,us,0,us,m
+2023,se,ft,data engineer,147000,usd,147000,us,0,us,m
+2023,se,ft,data scientist,185900,usd,185900,us,0,us,m
+2023,se,ft,data scientist,129300,usd,129300,us,0,us,m
+2023,se,ft,data scientist,238000,usd,238000,us,100,us,m
+2023,se,ft,data scientist,156000,usd,156000,us,100,us,m
+2023,se,ft,machine learning engineer,199000,usd,199000,us,100,us,m
+2023,mi,ft,big data engineer,45000,eur,48289,es,100,es,m
+2023,se,ft,data engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,data engineer,130000,usd,130000,us,0,us,m
+2023,se,ft,data scientist,140000,usd,140000,us,100,us,m
+2023,se,ft,data scientist,110000,usd,110000,us,100,us,m
+2023,mi,ft,data analyst,90000,usd,90000,us,0,us,m
+2023,mi,ft,data analyst,75000,usd,75000,us,0,us,m
+2023,mi,ft,research scientist,161200,gbp,195895,gb,0,gb,m
+2023,mi,ft,research scientist,84570,gbp,102772,gb,0,gb,m
+2023,se,ft,data engineer,240000,usd,240000,us,0,us,m
+2023,se,ft,data engineer,183600,usd,183600,us,0,us,m
+2023,mi,ft,data specialist,130000,usd,130000,us,0,us,m
+2023,mi,ft,data specialist,80000,usd,80000,us,0,us,m
+2023,se,ft,data engineer,250000,usd,250000,us,0,us,m
+2023,se,ft,data analytics manager,160000,usd,160000,us,100,us,m
+2023,se,ft,data analytics manager,120000,usd,120000,us,100,us,m
+2023,se,ft,machine learning engineer,202353,usd,202353,us,0,us,m
+2023,se,ft,data analyst,155000,usd,155000,us,0,us,m
+2023,se,ft,data engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,data scientist,157750,usd,157750,us,100,us,m
+2023,se,ft,data scientist,104650,usd,104650,us,100,us,m
+2023,mi,ft,data scientist,180000,usd,180000,us,100,us,m
+2023,mi,ft,data scientist,140000,usd,140000,us,100,us,m
+2023,ex,ft,data scientist,200000,usd,200000,us,0,us,m
+2023,ex,ft,data scientist,145000,usd,145000,us,0,us,m
+2023,mi,ft,lead data analyst,68000,usd,68000,us,0,us,l
+2023,en,ft,bi data engineer,60000,usd,60000,us,100,us,m
+2023,mi,ft,data engineer,125000,usd,125000,us,0,us,m
+2023,mi,ft,data engineer,90000,usd,90000,us,0,us,m
+2023,se,ft,data analyst,105000,usd,105000,us,100,us,m
+2023,se,ft,data analyst,90000,usd,90000,us,100,us,m
+2023,en,ft,research engineer,155000,usd,155000,us,0,us,m
+2023,en,ft,research engineer,125000,usd,125000,us,0,us,m
+2023,se,ft,machine learning engineer,241000,usd,241000,us,0,us,m
+2023,se,ft,machine learning engineer,181000,usd,181000,us,0,us,m
+2023,se,ft,data scientist,252000,usd,252000,us,0,us,m
+2023,se,ft,data scientist,154000,usd,154000,us,0,us,m
+2023,ex,ft,data architect,180000,usd,180000,us,0,us,m
+2023,ex,ft,data architect,155000,usd,155000,us,0,us,m
+2023,se,ft,data scientist,191765,usd,191765,us,0,us,m
+2023,se,ft,data scientist,134236,usd,134236,us,0,us,m
+2023,se,ft,data engineer,146000,usd,146000,us,0,us,m
+2023,se,ft,data engineer,75000,usd,75000,us,0,us,m
+2023,en,ft,data analyst,64200,usd,64200,us,100,us,m
+2023,en,ft,data analyst,56100,usd,56100,us,100,us,m
+2023,se,ft,machine learning engineer,170000,usd,170000,us,0,us,m
+2023,se,ft,data analyst,208450,usd,208450,us,100,us,m
+2023,se,ft,data analyst,170550,usd,170550,us,100,us,m
+2023,se,ft,machine learning engineer,125000,usd,125000,us,0,us,m
+2023,se,ft,machine learning engineer,100000,usd,100000,us,0,us,m
+2023,mi,ft,data manager,135000,usd,135000,us,0,us,m
+2023,mi,ft,data manager,120000,usd,120000,us,0,us,m
+2023,se,ft,data scientist,200000,usd,200000,us,100,us,m
+2023,se,ft,data scientist,170000,usd,170000,us,100,us,m
+2023,se,ft,data scientist,171250,usd,171250,ie,0,ie,m
+2023,se,ft,data scientist,113750,usd,113750,ie,0,ie,m
+2023,se,ft,data analyst,153600,usd,153600,us,0,us,m
+2023,se,ft,data analyst,100500,usd,100500,us,0,us,m
+2023,se,ft,machine learning engineer,115000,usd,115000,ca,100,ca,m
+2023,se,ft,machine learning engineer,95000,usd,95000,ca,100,ca,m
+2023,mi,ft,data analyst,182500,usd,182500,us,0,us,m
+2023,mi,ft,data analyst,121500,usd,121500,us,0,us,m
+2023,se,ft,data engineer,203100,usd,203100,us,0,us,m
+2023,se,ft,data engineer,114500,usd,114500,us,0,us,m
+2023,mi,ft,data analyst,60000,gbp,72914,gb,0,gb,m
+2023,mi,ft,data analyst,45000,gbp,54685,gb,0,gb,m
+2023,en,ft,data engineer,92700,usd,92700,us,100,us,m
+2023,en,ft,data engineer,61800,usd,61800,us,100,us,m
+2023,se,ft,data engineer,130000,usd,130000,us,100,us,m
+2023,se,ft,data scientist,258000,usd,258000,ca,0,ca,m
+2023,se,ft,data scientist,190000,usd,190000,ca,0,ca,m
+2023,mi,ft,data architect,167500,usd,167500,us,0,us,m
+2023,mi,ft,data architect,106500,usd,106500,us,0,us,m
+2023,mi,ft,data engineer,146000,usd,146000,us,0,us,m
+2023,mi,ft,data engineer,75000,usd,75000,us,0,us,m
+2022,en,ft,data engineer,57000,eur,59888,nl,100,nl,l
+2023,ex,ft,data engineer,286000,usd,286000,us,100,us,m
+2023,ex,ft,data engineer,207000,usd,207000,us,100,us,m
+2023,se,ft,data analyst,80000,usd,80000,us,100,us,m
+2023,se,ft,data engineer,223250,usd,223250,us,0,us,m
+2023,se,ft,data engineer,178600,usd,178600,us,0,us,m
+2023,ex,ft,director of data science,249300,usd,249300,us,0,us,m
+2023,mi,ft,machine learning scientist,230000,usd,230000,us,0,us,m
+2023,mi,ft,machine learning scientist,220000,usd,220000,us,0,us,m
+2023,se,ft,data scientist,198200,usd,198200,us,100,us,m
+2023,mi,ft,research scientist,210000,usd,210000,us,100,us,m
+2023,mi,ft,research scientist,151800,usd,151800,us,100,us,m
+2023,se,ft,data scientist,170730,usd,170730,us,0,us,m
+2023,en,ft,business data analyst,20000,eur,21461,es,0,es,m
+2023,se,ft,ai developer,108000,usd,108000,ua,0,ua,m
+2023,se,ft,ai developer,60000,usd,60000,ua,0,ua,m
+2023,mi,ft,mlops engineer,134000,usd,134000,us,100,us,m
+2023,mi,ft,mlops engineer,124000,usd,124000,us,100,us,m
+2023,se,ft,data engineer,171250,usd,171250,us,0,us,m
+2023,se,ft,data engineer,113750,usd,113750,us,0,us,m
+2023,se,ft,data scientist,225000,usd,225000,us,0,us,m
+2023,se,ft,data scientist,175000,usd,175000,us,0,us,m
+2023,se,ft,data engineer,230000,usd,230000,us,0,us,m
+2023,se,ft,data engineer,124500,usd,124500,us,0,us,m
+2023,se,ft,data analyst,175000,usd,175000,us,0,us,m
+2023,se,ft,data analyst,148700,usd,148700,us,0,us,m
+2023,se,ft,data analyst,125600,usd,125600,us,0,us,m
+2023,se,ft,research scientist,200000,usd,200000,us,0,us,m
+2023,se,ft,research scientist,150000,usd,150000,us,0,us,m
+2023,en,ft,research engineer,160000,usd,160000,us,0,us,m
+2023,en,ft,research engineer,120000,usd,120000,us,0,us,m
+2023,se,ft,data analyst,185000,usd,185000,us,100,us,m
+2023,se,ft,data analyst,120250,usd,120250,us,100,us,m
+2023,se,ft,data scientist,183000,usd,183000,us,100,us,m
+2023,se,ft,data architect,170000,usd,170000,us,100,us,m
+2023,se,ft,data architect,125000,usd,125000,us,100,us,m
+2023,se,ft,research scientist,250000,usd,250000,us,0,us,m
+2023,mi,ft,machine learning engineer,135000,usd,135000,us,50,us,l
+2023,se,ft,machine learning engineer,216000,usd,216000,us,100,us,m
+2023,se,ft,machine learning engineer,184000,usd,184000,us,100,us,m
+2023,se,ft,data engineer,180000,usd,180000,us,100,us,m
+2023,se,ft,data engineer,165000,usd,165000,us,100,us,m
+2023,mi,ft,data engineer,143865,usd,143865,us,0,us,m
+2023,mi,ft,data engineer,115092,usd,115092,us,0,us,m
+2023,mi,ft,machine learning engineer,130000,usd,130000,us,0,us,m
+2023,mi,ft,machine learning engineer,90000,usd,90000,us,0,us,m
+2023,se,ft,data scientist,173000,usd,173000,us,100,us,m
+2023,se,ft,data scientist,132000,usd,132000,us,100,us,m
+2023,se,ft,data analyst,208049,usd,208049,us,0,us,m
+2023,se,ft,data analyst,128500,usd,128500,us,0,us,m
+2023,se,ft,data engineer,167500,usd,167500,us,0,us,m
+2023,se,ft,data engineer,106500,usd,106500,us,0,us,m
+2023,mi,ft,data engineer,149600,usd,149600,us,0,us,m
+2023,mi,ft,data engineer,102000,usd,102000,us,0,us,m
+2023,ex,ft,data scientist,100000,usd,100000,us,0,us,m
+2023,se,ft,data analyst,190000,usd,190000,us,100,us,m
+2023,se,ft,data analyst,95000,usd,95000,us,100,us,m
+2023,se,ft,data analyst,106800,usd,106800,us,0,us,m
+2023,mi,ft,data scientist,90000,eur,96578,ie,0,ie,m
+2023,mi,ft,data scientist,75000,eur,80481,ie,0,ie,m
+2023,mi,ft,data analyst,128000,usd,128000,us,0,us,m
+2023,mi,ft,data analyst,85000,usd,85000,us,0,us,m
+2023,mi,ft,data engineer,151000,usd,151000,us,0,us,m
+2023,mi,ft,data engineer,140000,usd,140000,us,0,us,m
+2023,se,ft,machine learning scientist,220000,usd,220000,us,0,us,m
+2023,se,ft,machine learning scientist,170000,usd,170000,us,0,us,m
+2023,en,ft,autonomous vehicle technician,7000,usd,7000,gh,0,gh,s
+2023,en,ft,applied machine learning scientist,40000,eur,42923,de,50,de,m
+2023,se,ft,data engineer,160000,usd,160000,ca,100,ca,m
+2023,se,ft,data engineer,145000,usd,145000,ca,100,ca,m
+2023,mi,ft,data analyst,154000,usd,154000,us,0,us,m
+2023,mi,ft,data analyst,143000,usd,143000,us,0,us,m
+2023,mi,ft,data scientist,65000,gbp,78990,gb,0,gb,m
+2023,mi,ft,data scientist,42000,gbp,51039,gb,0,gb,m
+2023,en,ft,data scientist,190000,usd,190000,us,0,us,m
+2023,en,ft,data scientist,120000,usd,120000,us,0,us,m
+2023,mi,ft,data scientist,70000,gbp,85066,gb,0,gb,m
+2023,mi,ft,data scientist,90000,gbp,109371,gb,0,gb,m
+2023,mi,ft,data scientist,60000,gbp,72914,gb,0,gb,m
+2023,se,ft,data engineer,111000,usd,111000,us,0,us,m
+2023,ex,ft,data engineer,265000,usd,265000,us,0,us,m
+2023,ex,ft,data engineer,235000,usd,235000,us,0,us,m
+2023,en,ft,data scientist,112000,chf,121093,ch,50,ch,l
+2022,mi,ft,data scientist,70000,eur,73546,de,100,de,m
+2023,mi,ft,data engineer,75000,usd,75000,us,100,us,m
+2023,mi,ft,data engineer,60400,usd,60400,us,100,us,m
+2022,se,ft,lead data scientist,164000,eur,172309,ie,100,ie,l
+2023,mi,ft,data scientist,56000,eur,60093,at,100,de,m
+2023,mi,ft,data analyst,83500,usd,83500,us,100,us,m
+2023,mi,ft,data analyst,52500,usd,52500,us,100,us,m
+2023,se,ft,data scientist,201036,usd,201036,us,0,us,m
+2023,se,ft,data scientist,134024,usd,134024,us,0,us,m
+2023,se,ft,data analyst,165000,usd,165000,us,100,us,m
+2023,se,ft,data analyst,140000,usd,140000,us,100,us,m
+2023,en,ft,data engineer,62000,usd,62000,us,100,us,m
+2023,en,ft,data engineer,58000,usd,58000,us,100,us,m
+2023,se,ft,data scientist,172000,usd,172000,us,0,us,m
+2023,se,ft,data scientist,115000,usd,115000,us,0,us,m
+2023,en,ft,data engineer,125000,usd,125000,us,0,us,m
+2023,en,ft,data engineer,90000,usd,90000,us,0,us,m
+2023,se,ft,data engineer,163800,usd,163800,us,0,us,m
+2023,se,ft,data engineer,126000,usd,126000,us,0,us,m
+2023,mi,ft,data engineer,90000,usd,90000,us,100,us,m
+2023,se,ft,data engineer,139500,usd,139500,us,0,us,m
+2023,se,ft,data engineer,109400,usd,109400,us,0,us,m
+2023,mi,ft,data engineer,145000,usd,145000,us,0,us,m
+2023,mi,ft,data engineer,120000,usd,120000,us,0,us,m
+2023,se,ft,data engineer,205600,usd,205600,us,0,us,l
+2023,se,ft,data engineer,105700,usd,105700,us,0,us,l
+2023,se,ft,data scientist,239748,usd,239748,us,0,us,m
+2023,se,ft,data scientist,159832,usd,159832,us,0,us,m
+2023,se,ft,data scientist,186300,usd,186300,us,100,us,m
+2023,se,ft,data scientist,102500,usd,102500,us,100,us,m
+2023,se,ft,data scientist,126000,usd,126000,us,0,us,m
+2023,se,ft,data architect,149040,usd,149040,us,100,us,m
+2023,se,ft,data architect,113900,usd,113900,us,100,us,m
+2023,se,ft,data engineer,153600,usd,153600,us,100,us,m
+2023,se,ft,data engineer,106800,usd,106800,us,100,us,m
+2023,se,ft,data engineer,172600,usd,172600,us,100,us,m
+2023,se,ft,data engineer,107900,usd,107900,us,100,us,m
+2023,se,ft,data analyst,180180,usd,180180,us,0,us,m
+2023,se,ft,data analyst,106020,usd,106020,us,0,us,m
+2023,se,ft,data architect,213120,usd,213120,us,100,us,m
+2023,se,ft,data analyst,206500,usd,206500,us,100,us,m
+2023,se,ft,data analyst,121600,usd,121600,us,100,us,m
+2023,se,ft,data engineer,260000,usd,260000,us,0,us,m
+2023,se,ft,data engineer,225000,usd,225000,us,0,us,m
+2023,ex,ft,data engineer,194500,usd,194500,us,0,us,m
+2023,ex,ft,data engineer,115500,usd,115500,us,0,us,m
+2023,se,ft,cloud database engineer,170000,usd,170000,us,100,us,l
+2023,se,ft,applied machine learning scientist,90000,usd,90000,us,100,us,l
+2023,en,ft,data analyst,95000,usd,95000,us,100,us,m
+2023,en,ft,data analyst,70000,usd,70000,us,100,us,m
+2023,se,ft,data engineer,275000,usd,275000,us,0,us,m
+2023,se,ft,data analyst,115934,usd,115934,us,100,us,m
+2023,se,ft,data analyst,81666,usd,81666,us,100,us,m
+2023,se,ft,machine learning engineer,150000,usd,150000,us,100,us,m
+2023,se,ft,machine learning engineer,120000,usd,120000,us,100,us,m
+2023,se,ft,research engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,research engineer,175000,usd,175000,us,0,us,m
+2023,mi,ft,data analyst,206000,usd,206000,us,0,us,m
+2023,mi,ft,data analyst,130000,usd,130000,us,0,us,m
+2023,se,ft,data architect,138000,usd,138000,gb,100,gb,m
+2023,se,ft,data architect,92000,usd,92000,gb,100,gb,m
+2023,se,ft,data manager,65000,usd,65000,co,0,co,m
+2023,se,ft,data manager,48000,usd,48000,co,0,co,m
+2023,se,ft,data analyst,110000,usd,110000,us,100,us,m
+2023,se,ft,analytics engineer,130000,usd,130000,us,0,us,m
+2023,se,ft,analytics engineer,87000,usd,87000,us,0,us,m
+2023,mi,ft,data analyst,160000,usd,160000,us,0,us,m
+2023,mi,ft,data analyst,112000,usd,112000,us,0,us,m
+2023,se,ft,data science manager,245100,usd,245100,us,0,us,m
+2023,mi,ft,data scientist,145000,usd,145000,us,0,us,m
+2023,mi,ft,data scientist,100000,usd,100000,us,0,us,m
+2023,se,ft,data engineer,147100,usd,147100,us,0,us,m
+2023,en,ft,data engineer,115100,usd,115100,us,0,us,m
+2023,en,ft,data engineer,73900,usd,73900,us,0,us,m
+2023,se,ft,data engineer,168400,usd,168400,us,0,us,m
+2023,se,ft,data engineer,105200,usd,105200,us,0,us,m
+2023,mi,ft,data analyst,100000,usd,100000,us,0,us,m
+2023,mi,ft,data engineer,70000,gbp,85066,gb,100,gb,m
+2023,mi,ft,data engineer,47500,gbp,57723,gb,100,gb,m
+2023,mi,ft,data engineer,95000,usd,95000,us,0,us,m
+2023,mi,ft,financial data analyst,130000,usd,130000,us,100,us,l
+2023,se,ft,data scientist,205000,usd,205000,us,0,us,m
+2023,se,ft,research scientist,141288,usd,141288,us,0,us,m
+2023,se,ft,research scientist,94192,usd,94192,us,0,us,m
+2023,se,ft,data infrastructure engineer,184000,usd,184000,us,100,us,m
+2023,se,ft,data infrastructure engineer,143000,usd,143000,us,100,us,m
+2023,se,ft,data analyst,55000,usd,55000,us,0,us,m
+2023,se,ft,analytics engineer,275300,usd,275300,us,100,us,m
+2023,se,ft,analytics engineer,183500,usd,183500,us,100,us,m
+2023,mi,ft,data analyst,75000,usd,75000,us,100,us,m
+2023,mi,ft,data analyst,65000,usd,65000,us,100,us,m
+2023,mi,ft,ml engineer,160000,usd,160000,us,0,us,m
+2023,mi,ft,ml engineer,147000,usd,147000,us,0,us,m
+2023,mi,ft,software data engineer,100000,sgd,75020,sg,100,sg,l
+2023,en,ft,ai programmer,70000,usd,70000,in,0,au,l
+2023,en,ft,ai developer,80000,usd,80000,se,50,se,m
+2023,mi,ft,machine learning engineer,150000,usd,150000,us,0,us,m
+2023,ex,ft,data engineer,210914,usd,210914,us,100,us,m
+2023,ex,ft,data engineer,116704,usd,116704,us,100,us,m
+2023,en,ft,research scientist,150000,usd,150000,us,0,us,m
+2023,en,ft,research scientist,100000,usd,100000,us,0,us,m
+2023,en,ft,data analyst,60000,usd,60000,us,100,us,m
+2023,mi,ft,analytics engineer,185700,usd,185700,us,0,us,m
+2023,mi,ft,analytics engineer,165000,usd,165000,us,0,us,m
+2023,se,ft,data analyst,169000,usd,169000,us,0,us,m
+2023,se,ft,data analyst,110600,usd,110600,us,0,us,m
+2023,se,ft,data operations engineer,193000,usd,193000,us,100,us,m
+2023,se,ft,data operations engineer,136850,usd,136850,us,100,us,m
+2023,se,ft,machine learning engineer,139500,usd,139500,us,0,us,m
+2023,se,ft,machine learning engineer,109400,usd,109400,us,0,us,m
+2023,se,ft,data engineer,276000,usd,276000,us,100,us,m
+2023,se,ft,data engineer,178500,usd,178500,us,100,us,m
+2023,mi,ft,data scientist,55000,eur,59020,es,0,es,m
+2023,mi,ft,data scientist,45000,eur,48289,es,0,es,m
+2023,mi,ft,data engineer,70000,eur,75116,si,100,si,m
+2023,mi,ft,data engineer,45000,eur,48289,si,100,si,m
+2023,se,ft,machine learning engineer,161000,gbp,195652,gb,0,gb,m
+2023,se,ft,machine learning engineer,83300,gbp,101228,gb,0,gb,m
+2023,se,ft,data engineer,112700,gbp,136956,gb,0,gb,m
+2023,se,ft,data engineer,83300,gbp,101228,gb,0,gb,m
+2022,se,ft,bi developer,130000,usd,130000,us,100,us,l
+2021,mi,ft,data science lead,150000,usd,150000,us,100,us,m
+2023,se,ft,ml engineer,260000,usd,260000,ca,100,ca,m
+2023,se,ft,ml engineer,110000,usd,110000,ca,100,ca,m
+2023,se,ft,analytics engineer,170000,usd,170000,us,100,us,m
+2023,se,ft,analytics engineer,130000,usd,130000,us,100,us,m
+2023,se,ft,machine learning engineer,163800,usd,163800,us,0,us,m
+2023,se,ft,machine learning engineer,126000,usd,126000,us,0,us,m
+2023,mi,ft,data scientist,128750,usd,128750,us,0,us,m
+2023,mi,ft,data scientist,106250,usd,106250,us,0,us,m
+2023,ex,ft,data engineer,167500,usd,167500,us,0,us,m
+2023,ex,ft,data engineer,106500,usd,106500,us,0,us,m
+2023,se,ft,data architect,188500,usd,188500,us,100,us,m
+2023,se,ft,data architect,117000,usd,117000,us,100,us,m
+2023,se,ft,data analyst,250000,usd,250000,us,100,us,m
+2023,se,ft,data analyst,138000,usd,138000,us,100,us,m
+2023,mi,ft,data analyst,130000,usd,130000,ca,100,ca,m
+2023,mi,ft,data analyst,100000,usd,100000,ca,100,ca,m
+2023,se,ft,deep learning researcher,115000,eur,123405,de,0,de,l
+2023,se,ft,bi analyst,160000,usd,160000,us,0,us,m
+2023,se,ft,bi analyst,135000,usd,135000,us,0,us,m
+2023,mi,ft,data science manager,104500,usd,104500,us,0,us,m
+2023,mi,ft,data science manager,70000,usd,70000,us,0,us,m
+2023,mi,ft,data science consultant,90000,usd,90000,us,0,us,m
+2023,mi,ft,data science consultant,70000,usd,70000,us,0,us,m
+2023,mi,ft,research scientist,185000,usd,185000,us,100,us,m
+2023,mi,ft,research scientist,125000,usd,125000,us,100,us,m
+2023,se,ft,data analyst,127000,usd,127000,us,100,us,m
+2023,se,ft,data analyst,94000,usd,94000,us,100,us,m
+2023,se,ft,data scientist,210550,usd,210550,us,0,us,m
+2023,se,ft,data scientist,153300,usd,153300,us,0,us,m
+2023,mi,ft,data scientist,200000,usd,200000,us,100,us,m
+2023,mi,ft,data scientist,150000,usd,150000,us,100,us,m
+2023,se,ft,data analyst,161500,usd,161500,us,100,us,m
+2023,se,ft,data analyst,119500,usd,119500,us,100,us,m
+2023,se,ft,data scientist,148750,usd,148750,us,0,us,m
+2023,se,ft,data analytics specialist,105000,usd,105000,us,0,us,m
+2023,se,ft,data analytics specialist,85000,usd,85000,us,0,us,m
+2023,se,ft,research scientist,215000,usd,215000,us,0,us,m
+2023,se,ft,research scientist,146300,usd,146300,us,0,us,m
+2023,en,ft,ai developer,200000,eur,214618,de,100,de,l
+2023,mi,ft,data engineer,72000,usd,72000,mx,100,mx,m
+2023,mi,ft,data engineer,60000,usd,60000,mx,100,mx,m
+2023,se,ft,machine learning engineer,153400,usd,153400,us,0,us,m
+2023,se,ft,machine learning engineer,122700,usd,122700,us,0,us,m
+2023,mi,ft,data engineer,260000,usd,260000,us,0,us,m
+2023,mi,ft,data engineer,175000,usd,175000,us,0,us,m
+2023,se,ft,data scientist,123900,usd,123900,us,100,us,m
+2023,mi,ft,research scientist,150000,usd,150000,us,100,us,m
+2023,mi,ft,data engineer,250000,usd,250000,us,0,us,m
+2023,mi,ft,data scientist,60000,eur,64385,fr,50,fr,m
+2023,se,ft,data analyst,185900,usd,185900,us,0,us,m
+2023,se,ft,data analyst,121700,usd,121700,us,0,us,m
+2023,se,fl,software data engineer,50000,usd,50000,ng,50,au,m
+2023,en,ft,data analyst,100000,usd,100000,uz,100,us,l
+2023,ex,ft,data engineer,239000,usd,239000,us,100,us,m
+2023,se,ft,data analyst,125000,usd,125000,us,0,us,m
+2023,se,ft,data analyst,110000,usd,110000,us,0,us,m
+2023,en,ft,data analyst,150000,usd,150000,us,0,us,m
+2023,en,ft,data analyst,100000,usd,100000,us,0,us,m
+2023,se,ft,data scientist,149076,usd,149076,us,0,us,m
+2023,se,ft,data scientist,82365,usd,82365,us,0,us,m
+2023,mi,ft,data analyst,80000,gbp,97218,gb,0,gb,m
+2023,mi,ft,data analyst,40000,gbp,48609,gb,0,gb,m
+2023,se,ft,data analyst,95000,usd,95000,us,0,us,m
+2023,se,ft,data analyst,85500,usd,85500,us,0,us,m
+2023,mi,ft,data scientist,97750,usd,97750,us,100,us,m
+2023,se,ft,data scientist,201000,usd,201000,us,0,us,m
+2023,se,ft,data scientist,122000,usd,122000,us,0,us,m
+2023,mi,ft,data scientist,116990,usd,116990,us,100,us,m
+2023,mi,ft,data scientist,82920,usd,82920,us,100,us,m
+2023,mi,ft,machine learning scientist,200000,usd,200000,us,0,us,s
+2023,mi,ft,machine learning scientist,125000,usd,125000,us,0,us,s
+2023,se,ft,machine learning engineer,204500,usd,204500,us,0,us,m
+2023,se,ft,machine learning engineer,142200,usd,142200,us,0,us,m
+2023,se,ft,data manager,155000,usd,155000,us,0,us,m
+2023,se,ft,data manager,140000,usd,140000,us,0,us,m
+2023,mi,ft,machine learning infrastructure engineer,205920,usd,205920,us,0,us,m
+2023,mi,ft,machine learning infrastructure engineer,171600,usd,171600,us,0,us,m
+2023,se,ft,data engineer,121500,usd,121500,us,100,us,m
+2023,se,ft,data engineer,78000,usd,78000,us,100,us,m
+2023,mi,ft,data engineer,154000,usd,154000,us,0,us,m
+2023,mi,ft,data engineer,116000,usd,116000,us,0,us,m
+2023,se,ft,data scientist,136000,usd,136000,us,0,us,m
+2023,mi,ft,data analyst,65000,gbp,78990,gb,100,gb,m
+2023,mi,ft,data analyst,36050,gbp,43809,gb,100,gb,m
+2023,se,ft,data analyst,180000,usd,180000,us,0,us,m
+2023,se,ft,data engineer,170000,usd,170000,us,0,us,m
+2023,se,ft,data engineer,154000,usd,154000,us,0,us,m
+2023,se,ft,data engineer,116000,usd,116000,us,0,us,m
+2023,mi,ft,data engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,data scientist,160000,usd,160000,us,100,us,m
+2023,mi,ft,data engineer,105000,gbp,127599,gb,0,gb,m
+2023,mi,ft,data engineer,85000,gbp,103294,gb,0,gb,m
+2023,se,ft,data engineer,153600,usd,153600,us,0,us,m
+2023,se,ft,data engineer,106800,usd,106800,us,0,us,m
+2023,se,ft,data scientist,156400,usd,156400,us,0,us,m
+2023,se,ft,analytics engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,analytics engineer,120000,usd,120000,us,0,us,m
+2023,se,ft,data analyst,145000,usd,145000,us,100,us,m
+2023,se,ft,data scientist,260000,usd,260000,us,0,us,m
+2023,en,ft,data analyst,30000,usd,30000,in,50,in,m
+2023,mi,ft,research scientist,185000,usd,185000,us,0,us,m
+2023,mi,ft,research scientist,125000,usd,125000,us,0,us,m
+2022,en,pt,data analyst,34320,usd,34320,us,100,us,s
+2022,mi,ft,business data analyst,48000,brl,9289,br,100,br,m
+2023,se,ft,head of data,70000,eur,75116,pt,100,pt,l
+2022,ex,ft,data science manager,106000,usd,106000,uz,0,ru,l
+2023,se,ft,data analyst,175000,usd,175000,us,100,us,m
+2023,se,ft,data analyst,122000,usd,122000,us,100,us,m
+2023,se,ft,data analyst,93800,usd,93800,us,100,us,m
+2023,se,ft,data science manager,150000,usd,150000,mx,100,mx,m
+2023,se,ft,data science manager,90000,usd,90000,mx,100,mx,m
+2023,en,ft,computer vision engineer,220000,usd,220000,us,0,us,m
+2023,se,ft,bi data analyst,67000,eur,71897,de,100,de,m
+2023,en,ft,ai developer,60000,eur,64385,de,0,de,m
+2023,mi,ft,machine learning engineer,200000,usd,200000,us,0,us,m
+2023,mi,ft,machine learning engineer,175000,usd,175000,us,0,us,m
+2023,mi,ft,data scientist,40000,usd,40000,fr,50,fr,l
+2023,se,ft,data scientist,136000,usd,136000,us,100,us,m
+2023,se,ft,data scientist,104000,usd,104000,us,100,us,m
+2023,se,ft,data analyst,152380,usd,152380,us,0,us,m
+2023,se,ft,data analyst,121904,usd,121904,us,0,us,m
+2023,se,ft,data architect,168400,usd,168400,us,0,us,m
+2023,se,ft,data architect,105200,usd,105200,us,0,us,m
+2023,se,ft,machine learning engineer,128280,usd,128280,us,0,us,m
+2023,se,ft,machine learning engineer,106900,usd,106900,us,0,us,m
+2022,se,ft,lead data scientist,192000,usd,192000,us,100,us,l
+2023,mi,ft,data engineer,100000,usd,100000,us,0,us,m
+2023,se,ft,research engineer,100000,eur,107309,de,100,de,s
+2023,se,ft,research engineer,80000,eur,85847,de,100,de,s
+2023,se,ft,machine learning engineer,275000,usd,275000,de,0,de,m
+2023,se,ft,machine learning engineer,174000,usd,174000,de,0,de,m
+2023,se,ft,data analyst,170500,usd,170500,us,100,us,m
+2023,se,ft,data analyst,85000,usd,85000,us,100,us,m
+2023,se,ft,data manager,60027,gbp,72946,gb,0,gb,m
+2023,se,ft,data manager,44737,gbp,54365,gb,0,gb,m
+2023,ex,ft,head of data science,131899,gbp,160288,gb,0,gb,m
+2023,ex,ft,head of data science,104891,gbp,127467,gb,0,gb,m
+2023,se,ft,data engineer,80000,usd,80000,us,0,us,m
+2023,se,ft,data engineer,65000,usd,65000,us,0,us,m
+2023,se,ft,data engineer,124740,usd,124740,us,0,us,m
+2023,se,ft,data engineer,65488,usd,65488,us,0,us,m
+2023,se,ft,data quality analyst,72200,usd,72200,us,0,us,m
+2023,se,ft,data quality analyst,64980,usd,64980,us,0,us,m
+2023,se,ft,data analyst,179975,usd,179975,us,100,us,m
+2023,se,ft,data analyst,86466,usd,86466,us,100,us,m
+2023,se,ft,data engineer,90000,usd,90000,us,0,us,m
+2023,mi,ft,insight analyst,42000,gbp,51039,gb,0,gb,m
+2023,mi,ft,insight analyst,35000,gbp,42533,gb,0,gb,m
+2023,se,ft,data science manager,175000,usd,175000,us,0,us,m
+2023,se,ft,data science manager,120000,usd,120000,us,0,us,m
+2023,se,ft,data analyst,230000,usd,230000,us,0,us,m
+2023,se,ft,data manager,120000,usd,120000,us,0,us,m
+2023,se,ft,machine learning infrastructure engineer,205920,usd,205920,us,0,us,m
+2023,se,ft,machine learning infrastructure engineer,171600,usd,171600,us,0,us,m
+2023,se,ft,data engineer,265000,usd,265000,us,0,us,m
+2023,mi,ft,applied machine learning engineer,130000,usd,130000,us,0,us,m
+2022,en,ft,data scientist,168000,usd,168000,us,100,us,m
+2023,mi,ft,ai scientist,36000,eur,38631,es,50,es,l
+2023,se,ft,data engineer,167580,usd,167580,us,0,us,m
+2023,se,ft,data engineer,87980,usd,87980,us,0,us,m
+2023,se,ft,data engineer,202000,usd,202000,us,100,us,m
+2023,se,ft,data engineer,135000,usd,135000,us,100,us,m
+2023,se,ft,data engineer,104000,usd,104000,us,100,us,m
+2023,se,ft,data engineer,65000,usd,65000,us,100,us,m
+2023,se,ft,research engineer,230000,usd,230000,us,0,us,m
+2023,se,ft,research engineer,148000,usd,148000,us,0,us,m
+2023,se,ft,machine learning engineer,269000,usd,269000,ca,100,ca,m
+2023,se,ft,machine learning engineer,158000,usd,158000,ca,100,ca,m
+2023,se,ft,analytics engineer,197000,usd,197000,us,0,us,m
+2023,se,ft,analytics engineer,106000,usd,106000,us,0,us,m
+2023,mi,ft,deep learning engineer,150000,usd,150000,us,100,us,m
+2023,mi,ft,deep learning engineer,100000,usd,100000,us,100,us,m
+2023,se,ft,data engineer,210000,usd,210000,us,100,us,m
+2023,se,ft,data engineer,192000,usd,192000,us,0,us,m
+2023,se,ft,data engineer,172800,usd,172800,us,0,us,m
+2023,se,ft,data scientist,200160,usd,200160,us,0,us,m
+2023,se,ft,analytics engineer,175000,usd,175000,us,0,us,m
+2023,se,ft,analytics engineer,140000,usd,140000,us,0,us,m
+2023,se,ft,data manager,169000,usd,169000,us,0,us,m
+2023,se,ft,data manager,100000,usd,100000,us,0,us,m
+2023,mi,ft,data engineer,95000,gbp,115447,gb,100,gb,l
+2023,se,ft,data analyst,110000,usd,110000,us,100,us,s
+2023,se,ft,data analyst,80000,usd,80000,us,100,us,s
+2023,en,ft,data analyst,55000,usd,55000,us,0,us,m
+2023,en,ft,data analyst,48000,usd,48000,us,0,us,m
+2023,se,ft,data analyst,85000,usd,85000,us,0,us,m
+2023,se,ft,data engineer,137500,usd,137500,us,100,us,m
+2023,se,ft,data engineer,81500,usd,81500,us,100,us,m
+2023,se,ft,machine learning engineer,184700,usd,184700,us,0,us,m
+2021,mi,ft,ai scientist,30000,usd,30000,gh,0,gh,s
+2023,se,ft,machine learning engineer,186000,usd,186000,us,100,us,m
+2023,se,ft,machine learning engineer,153088,usd,153088,us,100,us,m
+2023,mi,ft,data infrastructure engineer,190000,usd,190000,us,100,us,m
+2023,mi,ft,data infrastructure engineer,160000,usd,160000,us,100,us,m
+2023,se,ft,machine learning engineer,200000,usd,200000,us,100,us,m
+2023,mi,ft,data infrastructure engineer,190000,usd,190000,us,0,us,m
+2023,mi,ft,data infrastructure engineer,183310,usd,183310,us,0,us,m
+2023,se,ft,machine learning engineer,240000,usd,240000,us,100,us,m
+2023,se,ft,machine learning engineer,180000,usd,180000,us,100,us,m
+2023,se,ft,data engineer,144000,usd,144000,us,100,us,m
+2023,se,ft,data engineer,66000,usd,66000,us,100,us,m
+2023,mi,ft,machine learning engineer,148500,usd,148500,us,0,us,m
+2023,mi,ft,machine learning engineer,126277,usd,126277,us,0,us,m
+2023,se,ft,data architect,228000,usd,228000,us,0,us,m
+2023,se,ft,data architect,120000,usd,120000,us,0,us,m
+2023,se,ft,machine learning software engineer,180000,usd,180000,us,0,us,m
+2023,se,ft,machine learning software engineer,90000,usd,90000,us,0,us,m
+2023,se,ft,data scientist,126500,usd,126500,us,0,us,m
+2023,se,ft,data scientist,78000,usd,78000,us,0,us,m
+2023,se,ft,data engineer,180000,usd,180000,us,0,us,m
+2023,se,ft,machine learning software engineer,272000,usd,272000,us,0,us,m
+2023,se,ft,machine learning software engineer,170000,usd,170000,us,0,us,m
+2023,mi,ft,data analyst,80000,usd,80000,us,0,us,m
+2023,mi,ft,data analyst,60000,usd,60000,us,0,us,m
+2023,se,ft,data engineer,259000,usd,259000,us,100,us,m
+2023,se,ft,data engineer,146000,usd,146000,us,100,us,m
+2023,se,ft,data scientist,139500,usd,139500,us,0,us,m
+2023,mi,ft,data engineer,140000,usd,140000,us,100,us,m
+2023,mi,ft,data engineer,120000,usd,120000,us,100,us,m
+2023,mi,ft,data analyst,90000,gbp,109371,hr,0,hr,m
+2023,mi,ft,data analyst,60000,gbp,72914,hr,0,hr,m
+2023,en,pt,data analyst,78000,pln,17779,pl,100,in,l
+2023,en,ft,data scientist,101400,brl,19522,br,100,br,l
+2023,se,ft,data science lead,247500,usd,247500,us,0,us,m
+2023,se,ft,data science lead,172200,usd,172200,us,0,us,m
+2023,se,ft,machine learning infrastructure engineer,100000,eur,107309,fr,100,fr,m
+2023,se,ft,machine learning infrastructure engineer,70000,eur,75116,fr,100,fr,m
+2023,se,ft,machine learning engineer,140000,usd,140000,us,100,us,m
+2023,mi,ft,data science lead,60000,gbp,72914,gb,0,gb,m
+2023,mi,ft,data science lead,50000,gbp,60761,gb,0,gb,m
+2023,se,ft,data scientist,215050,usd,215050,us,100,us,m
+2023,se,ft,data scientist,156400,usd,156400,us,100,us,m
+2023,se,ft,data architect,198000,usd,198000,us,100,us,m
+2023,se,ft,data architect,114000,usd,114000,us,100,us,m
+2023,se,ft,data scientist,209300,usd,209300,us,100,us,m
+2023,se,ft,data scientist,182200,usd,182200,us,100,us,m
+2022,en,ft,data scientist,85000,usd,85000,us,0,us,m
+2023,mi,ft,machine learning engineer,40000,gbp,48609,gb,100,gb,m
+2023,en,ft,research engineer,120000,usd,120000,gb,100,gb,m
+2023,en,ft,research engineer,60000,usd,60000,gb,100,gb,m
+2023,se,ft,machine learning engineer,147100,usd,147100,us,0,us,m
+2023,se,ft,machine learning engineer,90700,usd,90700,us,0,us,m
+2023,se,ft,data analyst,227000,usd,227000,us,0,us,m
+2023,se,ft,data analyst,108000,usd,108000,us,0,us,m
+2023,se,ft,data architect,160000,usd,160000,us,100,us,m
+2023,se,ft,data analyst,52000,eur,55800,es,100,es,m
+2023,se,ft,data analyst,48000,eur,51508,es,100,es,m
+2023,en,ft,data analyst,60000,usd,60000,us,100,us,l
+2023,en,ft,data analyst,50000,usd,50000,kw,50,us,l
+2023,se,ft,data engineer,226700,usd,226700,us,0,us,m
+2023,se,ft,data engineer,133300,usd,133300,us,0,us,m
+2023,se,ft,big data architect,124999,gbp,151902,gb,100,gb,l
+2023,se,ft,data analyst,52500,usd,52500,us,0,us,m
+2023,se,ft,data engineer,250000,usd,250000,us,100,us,m
+2023,se,ft,data engineer,162500,usd,162500,us,100,us,m
+2023,mi,ft,data analyst,165000,usd,165000,us,0,us,m
+2023,mi,ft,data analyst,124000,usd,124000,us,0,us,m
+2023,se,ft,data engineer,63000,usd,63000,us,100,us,m
+2023,se,ft,research scientist,253750,usd,253750,es,0,es,m
+2023,se,ft,research scientist,169200,usd,169200,es,0,es,m
+2023,mi,ft,data scientist,170000,usd,170000,us,0,us,m
+2023,mi,ft,data scientist,120000,usd,120000,us,0,us,m
+2023,se,ft,data engineer,213580,usd,213580,us,100,us,m
+2023,se,ft,data engineer,163625,usd,163625,us,100,us,m
+2023,en,ft,data engineer,12000,usd,12000,vn,0,vn,l
+2023,se,ft,data engineer,95000,eur,101943,ie,100,ie,m
+2023,se,ft,machine learning engineer,220000,usd,220000,us,0,us,m
+2023,ex,ft,data engineer,210000,usd,210000,us,0,us,m
+2023,se,ft,data science manager,231250,usd,231250,us,100,us,m
+2023,se,ft,data science manager,138750,usd,138750,us,100,us,m
+2023,se,ft,machine learning engineer,284310,usd,284310,us,0,us,m
+2023,se,ft,machine learning engineer,153090,usd,153090,us,0,us,m
+2023,mi,ft,data analyst,125000,usd,125000,us,0,us,m
+2023,mi,ft,data analyst,105000,usd,105000,us,0,us,m
+2023,mi,ft,data analyst,90000,gbp,109371,gb,0,gb,m
+2023,mi,ft,data analyst,70000,gbp,85066,gb,0,gb,m
+2023,en,ft,data analyst,100000,usd,100000,us,50,us,m
+2023,se,ft,data science lead,225900,usd,225900,us,0,us,m
+2023,se,ft,data science lead,156400,usd,156400,us,0,us,m
+2023,se,ft,data analyst,60000,usd,60000,us,0,us,m
+2023,mi,ft,data analyst,95000,usd,95000,us,100,us,m
+2023,se,ft,data scientist,135000,usd,135000,us,100,us,m
+2023,se,ft,data analyst,93919,usd,93919,us,100,us,m
+2023,se,ft,data analyst,51962,usd,51962,us,100,us,m
+2023,se,ft,data engineer,241871,usd,241871,us,0,us,m
+2023,se,ft,data engineer,133832,usd,133832,us,0,us,m
+2023,se,ft,data scientist,90000,usd,90000,us,100,us,m
+2023,se,ft,data analyst,192500,usd,192500,us,100,us,m
+2023,mi,ft,machine learning engineer,36000,usd,36000,mx,100,mx,s
+2023,se,ft,data scientist,235000,usd,235000,us,100,us,m
+2023,mi,ft,machine learning engineer,100000,gbp,121523,gb,0,gb,m
+2023,mi,ft,machine learning engineer,80000,gbp,97218,gb,0,gb,m
+2023,se,ft,data scientist,216100,usd,216100,us,0,us,m
+2023,se,ft,data scientist,140800,usd,140800,us,0,us,m
+2023,mi,ft,machine learning engineer,120000,gbp,145828,gb,0,gb,m
+2023,se,ft,computer vision software engineer,50000,eur,53654,nl,100,ca,l
+2023,en,ft,data scientist,110000,usd,110000,us,50,us,s
+2023,mi,ft,data engineer,55000,gbp,66837,gb,100,gb,m
+2023,mi,ft,data engineer,52000,gbp,63192,gb,100,gb,m
+2023,mi,ft,data analyst,50000,gbp,60761,gb,0,gb,m
+2023,ex,ft,data engineer,284000,usd,284000,us,100,us,m
+2023,ex,ft,data engineer,236000,usd,236000,us,100,us,m
+2023,se,ft,research scientist,248100,usd,248100,ca,0,ca,m
+2023,se,ft,research scientist,145900,usd,145900,ca,0,ca,m
+2023,se,ft,research engineer,155850,usd,155850,us,0,us,m
+2023,se,ft,research engineer,102544,usd,102544,us,0,us,m
+2023,mi,ft,data scientist,151410,usd,151410,us,100,us,m
+2023,mi,ft,data scientist,115360,usd,115360,us,100,us,m
+2023,mi,ft,data engineer,62000,eur,66531,es,100,es,m
+2023,mi,ft,data engineer,55000,eur,59020,es,100,es,m
+2023,se,ft,director of data science,170000,cad,125686,ca,50,ca,m
+2023,se,ft,azure data engineer,100000,usd,100000,nl,50,nl,l
+2023,se,ft,data scientist,185000,usd,185000,gb,0,gb,m
+2023,se,ft,data scientist,120250,usd,120250,gb,0,gb,m
+2023,en,ft,data engineer,25000,eur,26827,de,100,de,l
+2022,en,ft,data scientist,180000,usd,180000,us,100,us,m
+2023,mi,ft,research scientist,85000,usd,85000,us,0,us,m
+2023,mi,ft,research scientist,70000,usd,70000,us,0,us,m
+2023,se,ft,bi developer,135000,usd,135000,us,100,us,m
+2023,se,ft,bi developer,100000,usd,100000,us,100,us,m
+2023,ex,ft,data analytics manager,155000,usd,155000,us,0,us,m
+2023,ex,ft,data analytics manager,140000,usd,140000,us,0,us,m
+2023,se,ft,data scientist,225000,usd,225000,us,100,us,m
+2023,se,ft,ml engineer,220000,usd,220000,us,0,us,m
+2023,se,ft,ml engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,data analytics manager,204500,usd,204500,us,0,us,m
+2023,se,ft,data analytics manager,138900,usd,138900,us,0,us,m
+2023,se,ft,data engineer,107000,usd,107000,us,100,us,m
+2022,mi,ft,research scientist,23000,usd,23000,in,100,in,l
+2023,mi,ft,machine learning engineer,110000,usd,110000,us,100,us,l
+2023,se,ft,data engineer,265000,usd,265000,us,100,us,m
+2023,se,ft,data engineer,182750,usd,182750,us,100,us,m
+2023,se,ft,data engineer,137500,usd,137500,us,0,us,m
+2023,ex,ft,head of data science,195800,usd,195800,us,0,us,m
+2023,se,ft,applied scientist,205000,usd,205000,us,0,us,m
+2023,se,ft,applied scientist,180000,usd,180000,us,0,us,m
+2023,se,ft,data scientist,165000,usd,165000,us,100,us,m
+2023,se,ft,data scientist,144000,usd,144000,us,100,us,m
+2023,en,ft,bi developer,160000,usd,160000,us,0,us,m
+2023,en,ft,bi developer,100000,usd,100000,us,0,us,m
+2023,ex,ft,data engineer,200000,usd,200000,us,0,us,m
+2023,mi,ft,data analyst,150000,usd,150000,us,0,us,m
+2023,se,ft,data manager,199000,usd,199000,us,0,us,m
+2023,se,ft,data manager,112000,usd,112000,us,0,us,m
+2023,en,ft,big data engineer,130000,usd,130000,se,100,se,s
+2023,en,ft,data engineer,160000,usd,160000,us,0,us,m
+2023,en,ft,data engineer,135000,usd,135000,us,0,us,m
+2023,se,ft,data scientist,183000,usd,183000,us,0,us,m
+2023,se,ft,data scientist,134000,usd,134000,us,0,us,m
+2023,se,ft,applied scientist,262500,usd,262500,us,0,us,l
+2023,se,ft,data analyst,122000,usd,122000,us,0,us,m
+2023,se,ft,data analyst,94000,usd,94000,us,0,us,m
+2023,se,ft,machine learning engineer,276000,usd,276000,us,0,us,m
+2023,se,ft,machine learning engineer,184000,usd,184000,us,0,us,m
+2023,mi,ft,machine learning engineer,180000,usd,180000,us,100,us,m
+2023,mi,ft,machine learning engineer,150000,usd,150000,us,100,us,m
+2023,se,ft,data scientist,209450,usd,209450,us,100,us,m
+2023,se,ft,data scientist,158677,usd,158677,us,100,us,m
+2023,mi,ft,data analyst,103200,usd,103200,us,0,us,m
+2023,mi,ft,data analyst,61200,usd,61200,us,0,us,m
+2022,mi,ft,data scientist,155000,usd,155000,us,100,us,l
+2021,en,ft,marketing data engineer,90000,sgd,66970,sg,50,sg,l
+2023,se,ft,data scientist,59000,eur,63312,cy,50,ee,l
+2023,se,ft,data scientist,240000,usd,240000,us,100,us,m
+2023,se,ft,data scientist,139000,usd,139000,us,100,us,m
+2023,se,ft,data architect,174500,usd,174500,us,0,us,m
+2023,se,ft,data architect,113000,usd,113000,us,0,us,m
+2023,se,ft,data analyst,87000,usd,87000,us,100,us,m
+2023,se,ft,data analyst,160000,usd,160000,us,100,us,m
+2023,se,ft,data analyst,108000,usd,108000,us,100,us,m
+2023,se,ft,data engineer,107250,usd,107250,us,100,us,m
+2023,se,ft,data engineer,119000,usd,119000,us,0,us,m
+2023,se,ft,data scientist,285800,usd,285800,us,100,us,m
+2023,se,ft,data scientist,154600,usd,154600,us,100,us,m
+2023,en,ft,data analyst,30000,usd,30000,ar,100,us,s
+2023,mi,ft,data science manager,220000,usd,220000,us,0,us,m
+2023,mi,ft,data science manager,195000,usd,195000,us,0,us,m
+2023,se,ft,data manager,168400,usd,168400,us,0,us,m
+2023,se,ft,analytics engineer,200000,usd,200000,us,100,us,m
+2023,se,ft,analytics engineer,175000,usd,175000,us,100,us,m
+2023,se,ft,analytics engineer,231250,usd,231250,us,100,us,m
+2023,se,ft,analytics engineer,138750,usd,138750,us,100,us,m
+2023,se,ft,data engineer,153000,usd,153000,ca,100,ca,m
+2023,se,ft,data engineer,94000,usd,94000,ca,100,ca,m
+2023,se,ft,data engineer,90000,usd,90000,us,100,us,m
+2023,en,ft,data scientist,124234,usd,124234,us,0,us,m
+2023,en,ft,data scientist,74540,usd,74540,us,0,us,m
+2023,mi,ft,data analyst,109000,usd,109000,us,0,us,m
+2023,mi,ft,data analyst,79000,usd,79000,us,0,us,m
+2022,se,ft,machine learning engineer,80000,eur,84053,fr,50,fr,l
+2023,mi,ft,machine learning engineer,50000,usd,50000,am,0,am,s
+2023,se,ft,data analyst,125600,usd,125600,us,100,us,m
+2023,se,ft,data analyst,141290,usd,141290,us,0,us,m
+2023,se,ft,data analyst,74178,usd,74178,us,0,us,m
+2023,se,ft,data engineer,85000,usd,85000,us,100,us,m
+2023,se,ft,data engineer,220000,usd,220000,us,0,us,m
+2023,se,ft,data engineer,205600,usd,205600,us,100,us,m
+2023,se,ft,data engineer,107500,usd,107500,us,100,us,m
+2023,mi,ft,data analyst,52500,usd,52500,us,0,us,m
+2023,se,ft,data scientist,84000,usd,84000,us,100,us,m
+2023,se,ft,bi analyst,125000,usd,125000,us,0,us,m
+2023,se,ft,bi analyst,110000,usd,110000,us,0,us,m
+2023,se,ft,ml engineer,200000,usd,200000,us,0,us,m
+2023,se,ft,ml engineer,135000,usd,135000,us,0,us,m
+2022,en,ft,business data analyst,48000,usd,48000,us,50,us,l
+2023,en,ft,ai developer,120000,usd,120000,ba,50,ba,s
+2023,se,ft,data engineer,170000,usd,170000,us,100,us,m
+2023,mi,ft,data engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,computer vision engineer,200000,usd,200000,us,100,us,s
+2023,mi,ft,applied data scientist,80000,usd,80000,ke,100,ke,s
+2023,en,ft,business data analyst,12000,eur,12877,gr,50,gr,l
+2022,en,ft,ai developer,6000,eur,6304,mk,0,mk,s
+2023,se,ft,data scientist,257000,usd,257000,us,0,us,m
+2023,se,ft,data scientist,72000,eur,77262,lv,0,lv,m
+2023,se,ft,data scientist,36000,eur,38631,lv,0,lv,m
+2023,se,ft,bi developer,140000,usd,140000,us,100,us,m
+2023,se,ft,bi developer,110000,usd,110000,us,100,us,m
+2023,se,ft,research scientist,151800,usd,151800,us,0,us,m
+2023,mi,ft,data scientist,50000,eur,53654,ro,50,ro,l
+2023,se,ft,data analyst,48000,eur,51508,es,0,es,m
+2023,se,ft,data analyst,38000,eur,40777,es,0,es,m
+2023,mi,ft,data engineer,95000,usd,95000,us,100,us,m
+2023,se,ft,data scientist,130000,usd,130000,us,100,us,m
+2023,mi,ft,data analyst,120000,usd,120000,us,100,us,m
+2023,mi,ft,data analyst,100000,usd,100000,us,100,us,m
+2023,mi,ft,data scientist,183310,usd,183310,us,0,us,m
+2023,se,ft,data analyst,102500,usd,102500,us,100,us,m
+2023,se,ft,data scientist,185000,usd,185000,us,0,us,m
+2023,se,ft,data science consultant,122000,usd,122000,us,0,us,m
+2023,se,ft,data science consultant,94000,usd,94000,us,0,us,m
+2023,se,ft,data scientist,220000,usd,220000,us,0,us,m
+2023,se,ft,data scientist,146000,usd,146000,us,0,us,m
+2023,se,ft,data science consultant,145000,usd,145000,us,0,us,m
+2023,se,ft,data science consultant,128000,usd,128000,us,0,us,m
+2023,se,ft,data scientist,182000,usd,182000,us,0,us,m
+2023,se,ft,data engineer,122000,usd,122000,us,0,us,m
+2023,se,ft,data engineer,94000,usd,94000,us,0,us,m
+2023,se,ft,machine learning engineer,72000,eur,77262,lv,0,lv,m
+2023,se,ft,machine learning engineer,36000,eur,38631,lv,0,lv,m
+2023,mi,ft,data analyst,135000,usd,135000,us,0,us,m
+2023,mi,ft,data analyst,105500,usd,105500,us,0,us,m
+2022,mi,ft,data scientist,110000,usd,110000,us,100,us,l
+2023,se,ft,data scientist,168000,usd,168000,us,100,us,m
+2023,mi,ft,data analyst,65000,gbp,78990,gb,0,gb,m
+2023,mi,ft,data analyst,36050,gbp,43809,gb,0,gb,m
+2023,se,ft,data scientist,153400,usd,153400,us,0,us,m
+2023,se,ft,data scientist,122700,usd,122700,us,0,us,m
+2023,se,ft,data scientist,205000,usd,205000,us,100,us,m
+2023,mi,ft,machine learning engineer,145000,usd,145000,us,0,us,m
+2023,mi,ft,machine learning engineer,87000,usd,87000,us,0,us,m
+2023,en,ft,data scientist,50000,usd,50000,in,100,us,m
+2023,se,ft,ml engineer,234100,usd,234100,us,100,us,m
+2023,se,ft,ml engineer,203500,usd,203500,us,100,us,m
+2023,se,ft,data scientist,223800,usd,223800,us,0,us,m
+2023,se,ft,data scientist,172100,usd,172100,us,0,us,m
+2023,se,ft,data engineer,232200,usd,232200,us,100,us,m
+2023,se,ft,data engineer,167200,usd,167200,us,100,us,m
+2023,se,ft,bi developer,197000,usd,197000,us,0,us,m
+2023,se,ft,bi developer,106000,usd,106000,us,0,us,m
+2023,se,ft,research scientist,180000,usd,180000,us,0,us,m
+2023,se,ft,research scientist,145000,usd,145000,us,0,us,m
+2023,se,ft,data lead,225000,usd,225000,us,0,us,m
+2023,se,ft,data lead,200000,usd,200000,us,0,us,m
+2023,se,ft,data engineer,114000,usd,114000,us,100,us,m
+2023,ex,ft,data engineer,196200,usd,196200,us,0,us,m
+2023,ex,ft,data engineer,150900,usd,150900,us,0,us,m
+2023,se,ft,data scientist,168400,usd,168400,us,0,us,m
+2023,se,ft,data scientist,105200,usd,105200,us,0,us,m
+2023,mi,ft,data engineer,95000,usd,95000,es,100,es,m
+2023,mi,ft,data engineer,80000,usd,80000,es,100,es,m
+2023,mi,ft,data analyst,116000,usd,116000,us,0,us,m
+2023,mi,ft,data analyst,72000,usd,72000,us,0,us,m
+2023,se,ft,analytics engineer,207000,usd,207000,us,0,us,m
+2023,se,ft,analytics engineer,167000,usd,167000,us,0,us,m
+2023,se,ft,machine learning engineer,145000,usd,145000,us,0,us,m
+2023,se,ft,machine learning engineer,135000,usd,135000,us,0,us,m
+2023,mi,ft,data engineer,105000,usd,105000,us,0,us,m
+2023,mi,ft,data engineer,70000,usd,70000,us,0,us,m
+2023,se,ft,data engineer,133800,usd,133800,us,100,us,m
+2023,se,ft,data engineer,96100,usd,96100,us,100,us,m
+2023,mi,ft,data analyst,120000,usd,120000,us,0,us,m
+2023,se,ft,data science engineer,140000,usd,140000,us,0,us,m
+2023,se,ft,data science engineer,100000,usd,100000,us,0,us,m
+2023,se,ft,research scientist,120000,usd,120000,us,0,us,m
+2023,se,ft,cloud database engineer,140000,usd,140000,us,100,us,m
+2023,se,ft,cloud database engineer,115000,usd,115000,us,100,us,m
+2023,se,ft,data science manager,198200,usd,198200,us,100,us,m
+2023,mi,ft,machine learning engineer,219000,usd,219000,us,50,us,l
+2023,se,ft,applied scientist,230000,usd,230000,us,100,us,m
+2023,se,ft,applied scientist,196000,usd,196000,us,100,us,m
+2023,se,ft,data engineer,110000,usd,110000,us,0,us,m
+2023,se,ft,applied scientist,126100,usd,126100,us,0,us,l
+2023,se,ft,applied scientist,72000,usd,72000,us,0,us,l
+2023,mi,ft,machine learning engineer,175000,usd,175000,us,100,us,m
+2023,mi,ft,machine learning engineer,140000,usd,140000,us,100,us,m
+2023,se,ft,data analyst,240500,usd,240500,us,0,us,m
+2023,se,ft,data analyst,137500,usd,137500,us,0,us,m
+2023,mi,ft,data scientist,187500,usd,187500,us,0,us,m
+2023,mi,ft,data scientist,165000,usd,165000,us,0,us,m
+2023,mi,ft,machine learning research engineer,60000,gbp,72914,gb,0,gb,l
+2022,en,pt,data analyst,24000,eur,25216,es,100,us,l
+2023,se,ft,research scientist,165750,usd,165750,us,0,us,m
+2023,se,ft,machine learning scientist,225000,usd,225000,us,100,us,m
+2023,se,ft,machine learning scientist,165750,usd,165750,us,100,us,m
+2023,mi,ft,machine learning engineer,89700,gbp,109006,gb,0,gb,m
+2023,mi,ft,machine learning engineer,55250,gbp,67141,gb,0,gb,m
+2023,se,ft,data scientist,115000,usd,115000,us,100,us,m
+2023,se,ft,nlp engineer,275000,usd,275000,us,0,us,m
+2023,se,ft,nlp engineer,175000,usd,175000,us,0,us,m
+2023,se,ft,data engineer,175308,usd,175308,us,0,us,m
+2023,se,ft,data engineer,100706,usd,100706,us,0,us,m
+2023,se,ft,nlp engineer,235000,usd,235000,us,0,us,m
+2023,se,ft,nlp engineer,135000,usd,135000,us,0,us,m
+2023,se,ft,data engineer,229000,usd,229000,us,0,us,m
+2023,se,ft,ml engineer,202353,usd,202353,us,0,us,m
+2023,se,ft,data engineer,65000,eur,69751,pt,0,pt,m
+2023,se,ft,data engineer,35000,eur,37558,pt,0,pt,m
+2023,mi,ft,research engineer,120000,usd,120000,us,100,us,m
+2023,mi,ft,research engineer,100000,usd,100000,us,100,us,m
+2023,se,ft,data engineer,231250,usd,231250,us,100,us,m
+2023,se,ft,data engineer,138750,usd,138750,us,100,us,m
+2023,se,ft,data engineer,199000,usd,199000,us,0,us,m
+2023,se,ft,data engineer,162000,usd,162000,us,0,us,m
+2022,en,ft,data scientist,100000,usd,100000,us,100,us,m
+2023,en,ft,deep learning engineer,150000,usd,150000,us,0,us,m
+2023,en,ft,deep learning engineer,120000,usd,120000,us,0,us,m
+2023,se,ft,research engineer,150000,usd,150000,us,0,us,m
+2023,se,ft,research engineer,100000,usd,100000,us,0,us,m
+2022,se,ft,data analytics manager,133000,usd,133000,nl,0,nl,l
+2023,se,ft,data scientist,272550,usd,272550,us,0,us,m
+2023,se,ft,data scientist,198200,usd,198200,us,0,us,m
+2023,mi,ft,data scientist,105000,usd,105000,us,0,us,m
+2023,se,ft,data engineer,187500,usd,187500,us,100,us,m
+2023,se,ft,data analyst,155000,usd,155000,us,100,us,m
+2023,se,ft,data analyst,64000,usd,64000,us,100,us,m
+2023,se,ft,computer vision engineer,235000,usd,235000,us,0,us,m
+2023,se,ft,computer vision engineer,185000,usd,185000,us,0,us,m
+2023,se,ft,data scientist,143100,usd,143100,ca,0,ca,m
+2023,se,ft,data scientist,113000,usd,113000,ca,0,ca,m
+2023,se,ft,applied scientist,142000,usd,142000,us,100,us,m
+2023,se,ft,data scientist,180560,usd,180560,us,0,us,m
+2023,se,ft,data scientist,115440,usd,115440,us,0,us,m
+2023,se,ft,research scientist,248100,usd,248100,us,0,us,m
+2023,se,ft,research scientist,145900,usd,145900,us,0,us,m
+2023,se,ft,data scientist,120000,usd,120000,ca,0,ca,m
+2023,se,ft,data scientist,110000,usd,110000,ca,0,ca,m
+2023,mi,ft,machine learning engineer,62000,gbp,75344,gb,100,gb,m
+2023,mi,ft,machine learning engineer,52000,gbp,63192,gb,100,gb,m
+2023,se,ft,data engineer,161800,usd,161800,us,0,us,m
+2023,se,ft,data engineer,141600,usd,141600,us,0,us,m
+2023,mi,ft,machine learning engineer,48000,gbp,58331,gb,100,gb,m
+2023,mi,ft,machine learning engineer,38000,gbp,46178,gb,100,gb,m
+2023,se,ft,data engineer,128000,usd,128000,us,100,us,m
+2023,se,ft,data architect,110000,usd,110000,us,100,us,m
+2023,se,ft,data engineer,236000,usd,236000,us,100,us,m
+2023,se,ft,data engineer,182000,usd,182000,us,100,us,m
+2022,en,ft,data scientist,130000,usd,130000,us,0,us,m
+2023,se,ft,machine learning engineer,261500,usd,261500,us,0,us,l
+2023,se,ft,machine learning engineer,134500,usd,134500,us,0,us,l
+2023,mi,ft,data scientist,130000,usd,130000,us,0,us,m
+2023,mi,ft,data scientist,90000,usd,90000,us,0,us,m
+2022,se,ft,manager data management,125000,usd,125000,us,100,us,l
+2022,se,ft,data engineer,175000,usd,175000,us,0,us,m
+2022,se,ft,data engineer,155000,usd,155000,us,0,us,m
+2022,se,ft,data engineer,153600,usd,153600,us,0,us,m
+2022,se,ft,data engineer,106800,usd,106800,us,0,us,m
+2022,se,ft,data scientist,150000,usd,150000,us,0,us,m
+2022,se,ft,data scientist,140000,usd,140000,us,0,us,m
+2022,se,ft,data science consultant,122000,usd,122000,us,0,us,m
+2022,se,ft,data science consultant,94500,usd,94500,us,0,us,m
+2022,se,ft,data engineer,170000,usd,170000,us,0,us,m
+2022,se,ft,data engineer,130000,usd,130000,us,0,us,m
+2022,se,ft,data science consultant,145000,usd,145000,us,0,us,m
+2022,se,ft,data science consultant,128000,usd,128000,us,0,us,m
+2022,se,ft,data engineer,145000,usd,145000,us,0,us,m
+2022,se,ft,data engineer,100000,usd,100000,us,0,us,m
+2022,se,ft,data engineer,120000,usd,120000,us,0,us,m
+2022,se,ft,data engineer,115000,usd,115000,us,0,us,m
+2022,se,ft,applied machine learning scientist,150000,usd,150000,us,100,us,m
+2022,mi,ft,data analyst,150000,usd,150000,us,0,us,m
+2022,mi,ft,data analyst,100000,usd,100000,us,0,us,m
+2022,mi,ft,data scientist,150000,usd,150000,us,100,us,m
+2022,mi,ft,data scientist,127500,usd,127500,us,100,us,m
+2022,se,ft,data scientist,126500,usd,126500,us,100,us,m
+2022,se,ft,data scientist,51000,usd,51000,us,100,us,m
+2022,mi,ft,data engineer,260000,usd,260000,us,0,us,m
+2022,mi,ft,data engineer,175000,usd,175000,us,0,us,m
+2022,en,ft,applied data scientist,40000,usd,40000,au,100,pk,m
+2022,en,ft,ai programmer,40000,usd,40000,pk,100,au,m
+2022,se,ft,data engineer,250000,usd,250000,us,100,us,m
+2022,se,ft,data engineer,63000,usd,63000,us,100,us,m
+2022,se,ft,machine learning engineer,210000,usd,210000,us,100,us,m
+2022,se,ft,machine learning engineer,160000,usd,160000,us,100,us,m
+2022,se,ft,data scientist,272550,usd,272550,us,100,us,m
+2022,se,ft,data scientist,198200,usd,198200,us,100,us,m
+2022,mi,ft,data scientist,90000,eur,94560,fr,100,fr,m
+2022,mi,ft,data scientist,50000,eur,52533,fr,100,fr,m
+2022,se,ft,data scientist,220000,usd,220000,us,0,us,m
+2022,se,ft,data scientist,146000,usd,146000,us,0,us,m
+2022,se,ft,machine learning software engineer,248400,usd,248400,ca,100,ca,m
+2022,se,ft,machine learning software engineer,183600,usd,183600,ca,100,ca,m
+2022,mi,ft,data engineer,150000,usd,150000,us,100,us,m
+2022,en,ft,machine learning developer,40000,usd,40000,pk,100,au,m
+2022,mi,ft,data engineer,120000,usd,120000,us,0,us,m
+2022,mi,ft,data engineer,95000,usd,95000,us,0,us,m
+2022,en,ft,data engineer,160000,usd,160000,us,0,us,m
+2022,en,ft,data engineer,135000,usd,135000,us,0,us,m
+2022,en,ft,data science consultant,23000,eur,24165,it,50,it,m
+2022,se,ft,data engineer,216000,usd,216000,us,100,us,m
+2022,se,ft,data engineer,144000,usd,144000,us,100,us,m
+2022,en,ft,data engineer,85000,usd,85000,us,0,us,m
+2022,en,ft,data engineer,65000,usd,65000,us,0,us,m
+2022,se,ft,data analyst,149000,usd,149000,us,100,us,m
+2022,se,ft,data analyst,119000,usd,119000,us,100,us,m
+2022,se,ft,data scientist,120000,usd,120000,us,0,us,m
+2022,mi,ft,data scientist,150000,usd,150000,us,0,us,m
+2022,mi,ft,data scientist,110000,usd,110000,us,0,us,m
+2022,se,ft,machine learning engineer,246000,usd,246000,us,100,us,m
+2022,se,ft,machine learning engineer,201000,usd,201000,us,100,us,m
+2022,se,ft,data scientist,190000,usd,190000,us,0,us,m
+2022,se,ft,data scientist,155000,usd,155000,us,0,us,m
+2022,se,ft,ml engineer,235000,usd,235000,us,100,us,m
+2022,se,ft,ml engineer,185000,usd,185000,us,100,us,m
+2022,se,ft,cloud database engineer,190000,usd,190000,us,100,us,m
+2022,se,ft,cloud database engineer,160000,usd,160000,us,100,us,m
+2022,en,ft,product data analyst,100000,usd,100000,us,100,us,m
+2022,mi,ft,data engineer,130000,usd,130000,us,0,us,m
+2022,mi,ft,data engineer,115000,usd,115000,us,0,us,m
+2022,mi,ft,data scientist,75000,gbp,92350,gb,0,gb,m
+2022,mi,ft,data scientist,55000,gbp,67723,gb,0,gb,m
+2022,mi,ft,data engineer,105000,usd,105000,us,0,us,m
+2022,mi,ft,data engineer,70000,usd,70000,us,0,us,m
+2022,se,ft,machine learning engineer,204500,usd,204500,us,0,us,m
+2022,se,ft,machine learning engineer,142200,usd,142200,us,0,us,m
+2022,se,ft,machine learning engineer,192000,usd,192000,us,100,us,m
+2022,se,ft,machine learning engineer,164000,usd,164000,us,100,us,m
+2022,se,ft,data engineer,185900,usd,185900,us,0,us,m
+2022,se,ft,data engineer,129300,usd,129300,us,0,us,m
+2022,se,ft,data engineer,75000,usd,75000,us,0,us,m
+2022,se,ft,data science manager,175000,usd,175000,us,0,us,m
+2022,se,ft,data science manager,120000,usd,120000,us,0,us,m
+2022,se,ft,data engineer,167500,usd,167500,us,0,us,m
+2022,se,ft,data engineer,106500,usd,106500,us,0,us,m
+2022,mi,ft,data analyst,75000,usd,75000,us,100,us,m
+2022,mi,ft,data analyst,60000,usd,60000,us,100,us,m
+2022,se,ft,applied scientist,184000,usd,184000,us,100,us,m
+2022,se,ft,applied scientist,142000,usd,142000,us,100,us,m
+2022,mi,ft,data scientist,145000,usd,145000,us,0,us,m
+2022,mi,ft,data scientist,100000,usd,100000,us,0,us,m
+2022,en,ft,machine learning software engineer,10000,usd,10000,ma,50,ma,s
+2022,mi,ft,nlp engineer,198000,pln,44365,pl,100,pl,s
+2022,ex,ft,data engineer,200000,usd,200000,us,0,us,m
+2022,ex,ft,data engineer,145000,usd,145000,us,0,us,m
+2022,mi,ft,data engineer,75000,gbp,92350,gb,100,gb,m
+2022,mi,ft,data engineer,60000,gbp,73880,gb,100,gb,m
+2022,se,ft,applied scientist,192000,usd,192000,us,100,us,m
+2022,se,ft,applied scientist,164000,usd,164000,us,100,us,m
+2022,ex,ft,data engineer,239000,usd,239000,us,100,us,m
+2022,se,ft,data analyst,120000,usd,120000,us,0,us,m
+2022,se,ft,data analyst,95000,usd,95000,us,0,us,m
+2022,se,ft,machine learning engineer,145000,usd,145000,us,0,us,m
+2022,se,ft,machine learning engineer,135000,usd,135000,us,0,us,m
+2022,se,ft,data engineer,78000,usd,78000,us,0,us,m
+2022,se,ft,data engineer,70000,eur,73546,es,0,es,m
+2022,se,ft,data engineer,35000,eur,36773,es,0,es,m
+2022,mi,ft,data engineer,160000,usd,160000,us,100,us,m
+2022,mi,ft,data engineer,120000,usd,120000,us,100,us,m
+2022,se,ft,ai scientist,125000,usd,125000,co,100,co,l
+2022,se,ft,data engineer,95000,usd,95000,us,0,us,m
+2022,se,ft,data scientist,45000,eur,47280,es,0,es,m
+2022,se,ft,data scientist,36000,eur,37824,es,0,es,m
+2022,se,ft,data analyst,115934,usd,115934,us,100,us,m
+2022,se,ft,data analyst,81666,usd,81666,us,100,us,m
+2022,se,ft,data scientist,175000,usd,175000,us,100,us,m
+2022,se,ft,data scientist,140000,usd,140000,us,100,us,m
+2022,se,ft,research engineer,249500,usd,249500,us,0,us,m
+2022,se,ft,research engineer,149850,usd,149850,us,0,us,m
+2022,mi,ft,analytics engineer,122500,usd,122500,us,100,us,m
+2022,mi,ft,analytics engineer,100000,usd,100000,us,100,us,m
+2022,se,ft,data scientist,249500,usd,249500,us,0,us,m
+2022,se,ft,data scientist,149850,usd,149850,us,0,us,m
+2022,en,ft,data analyst,55000,usd,55000,us,0,us,m
+2022,en,ft,data analyst,48000,usd,48000,us,0,us,m
+2022,se,ft,research scientist,249500,usd,249500,us,0,us,m
+2022,se,ft,research scientist,149850,usd,149850,us,0,us,m
+2022,mi,ft,computer vision engineer,56000,eur,58837,fr,100,fr,s
+2022,se,ft,data engineer,190000,usd,190000,us,100,us,m
+2022,se,ft,data engineer,120000,usd,120000,us,100,us,m
+2022,se,ft,data analyst,127000,usd,127000,us,100,us,m
+2022,se,ft,data analyst,104000,usd,104000,us,100,us,m
+2022,se,ft,data scientist,210000,usd,210000,us,100,us,m
+2022,se,ft,data scientist,150000,usd,150000,us,100,us,m
+2022,se,ft,machine learning engineer,150000,usd,150000,us,100,us,m
+2022,se,ft,data engineer,210000,usd,210000,us,100,us,m
+2022,se,ft,data engineer,130000,usd,130000,us,100,us,m
+2022,se,ft,data scientist,182750,usd,182750,us,100,us,m
+2022,se,ft,data scientist,161500,usd,161500,us,100,us,m
+2022,mi,ft,data analyst,102640,usd,102640,us,100,us,m
+2022,mi,ft,data analyst,66100,usd,66100,us,100,us,m
+2022,se,ft,research scientist,210000,usd,210000,us,100,us,m
+2022,se,ft,research scientist,150000,usd,150000,us,100,us,m
+2022,se,ft,data engineer,198800,usd,198800,us,0,us,m
+2022,se,ft,data engineer,122600,usd,122600,us,0,us,m
+2022,mi,ft,data engineer,130000,usd,130000,us,100,us,m
+2022,mi,ft,data engineer,80000,usd,80000,us,100,us,m
+2022,se,ft,data scientist,136000,usd,136000,us,100,us,m
+2022,se,ft,data scientist,104000,usd,104000,us,100,us,m
+2022,se,ft,data analyst,150000,usd,150000,us,100,us,m
+2022,se,ft,data analyst,100000,usd,100000,us,100,us,m
+2022,ex,ft,data scientist,159000,usd,159000,us,100,us,m
+2022,ex,ft,data scientist,130000,usd,130000,us,100,us,m
+2022,se,ft,data engineer,215000,usd,215000,us,100,us,m
+2022,se,ft,data engineer,150000,usd,150000,us,100,us,m
+2022,mi,ft,data engineer,187000,usd,187000,us,100,us,m
+2022,mi,ft,data engineer,153000,usd,153000,us,100,us,m
+2022,se,ft,machine learning engineer,255000,usd,255000,mx,100,mx,m
+2022,se,ft,machine learning engineer,185000,usd,185000,mx,100,mx,m
+2022,mi,ft,data analyst,45000,gbp,55410,gb,0,gb,m
+2022,se,ft,data analyst,48000,eur,50432,es,0,es,m
+2022,se,ft,data analyst,38000,eur,39925,es,0,es,m
+2022,se,ft,data analyst,169000,usd,169000,us,0,us,m
+2022,se,ft,data analyst,110600,usd,110600,us,0,us,m
+2022,en,ft,bi data analyst,58000,eur,60938,de,0,de,l
+2022,se,ft,bi developer,140000,usd,140000,us,100,us,m
+2022,se,ft,bi developer,120000,usd,120000,us,100,us,m
+2022,se,ft,3d computer vision researcher,10000,usd,10000,ca,50,al,s
+2022,en,ft,data analyst,50000,usd,50000,us,50,us,l
+2022,mi,ft,mlops engineer,134000,usd,134000,us,100,us,m
+2022,mi,ft,mlops engineer,124000,usd,124000,us,100,us,m
+2022,se,ft,data analyst,166700,usd,166700,us,0,us,m
+2022,se,ft,data analyst,119000,usd,119000,us,0,us,m
+2022,en,ft,data scientist,124234,usd,124234,us,0,us,m
+2022,en,ft,data scientist,74540,usd,74540,us,0,us,m
+2022,mi,ft,data analyst,100000,usd,100000,us,100,us,m
+2022,mi,ft,data analyst,65000,usd,65000,us,100,us,m
+2022,en,ft,ai scientist,200000,usd,200000,ca,50,ca,l
+2022,en,ft,machine learning engineer,12000,usd,12000,ar,100,ar,l
+2022,se,ft,data engineer,220000,usd,220000,us,100,us,m
+2022,se,ft,data engineer,146000,usd,146000,us,100,us,m
+2022,se,ft,data engineer,65000,eur,68293,es,0,es,m
+2022,se,ft,data specialist,110000,usd,110000,us,0,us,m
+2022,se,ft,data specialist,70000,usd,70000,us,0,us,m
+2022,se,ft,data architect,190000,usd,190000,us,100,us,m
+2022,se,ft,data architect,135000,usd,135000,us,100,us,m
+2022,se,ft,data scientist,128000,usd,128000,us,0,us,m
+2022,se,ft,data scientist,81500,usd,81500,us,0,us,m
+2022,se,ft,data scientist,173000,usd,173000,us,100,us,m
+2022,se,ft,data scientist,110000,usd,110000,us,100,us,m
+2022,se,ft,machine learning engineer,192000,usd,192000,us,0,us,m
+2022,se,ft,machine learning engineer,120000,usd,120000,us,0,us,m
+2022,se,ft,principal machine learning engineer,190000,usd,190000,us,100,us,l
+2022,se,ft,data engineer,194000,usd,194000,us,100,us,m
+2022,se,ft,data engineer,129400,usd,129400,us,100,us,m
+2022,se,ft,data analyst,201000,usd,201000,us,100,us,m
+2022,se,ft,data analyst,89200,usd,89200,us,100,us,m
+2022,se,ft,data scientist,165000,usd,165000,us,0,us,m
+2022,se,ft,data scientist,125000,usd,125000,us,0,us,m
+2022,se,ft,applied scientist,230000,usd,230000,us,100,us,m
+2022,se,ft,applied scientist,196000,usd,196000,us,100,us,m
+2022,mi,ft,machine learning engineer,130000,usd,130000,us,0,us,m
+2022,mi,ft,machine learning engineer,90000,usd,90000,us,0,us,m
+2022,mi,ft,machine learning researcher,150000,usd,150000,us,100,us,m
+2022,mi,ft,machine learning researcher,100000,usd,100000,us,100,us,m
+2022,mi,ft,machine learning engineer,230000,usd,230000,us,0,us,m
+2022,mi,ft,machine learning engineer,150000,usd,150000,us,0,us,m
+2022,mi,ft,machine learning researcher,130000,usd,130000,us,100,us,m
+2022,mi,ft,data scientist,180000,usd,180000,us,0,us,m
+2022,mi,ft,data scientist,120000,usd,120000,us,0,us,m
+2022,se,ft,data analyst,192500,usd,192500,us,100,us,m
+2022,se,ft,data analyst,140000,usd,140000,us,100,us,m
+2022,se,ft,data engineer,152500,usd,152500,us,0,us,m
+2022,se,ft,data analyst,65000,usd,65000,us,100,us,m
+2022,se,ft,data analyst,55000,usd,55000,us,100,us,m
+2022,se,ft,data engineer,178750,usd,178750,us,0,us,m
+2022,se,ft,data engineer,160000,usd,160000,us,0,us,m
+2022,mi,ft,data scientist,60000,eur,63040,fr,100,fr,m
+2022,mi,ft,machine learning scientist,165000,usd,165000,us,0,us,m
+2022,mi,ft,machine learning scientist,135000,usd,135000,us,0,us,m
+2022,se,ft,analytics engineer,170000,usd,170000,us,100,us,m
+2022,se,ft,analytics engineer,125000,usd,125000,us,100,us,m
+2022,se,ft,data engineer,105000,usd,105000,us,0,us,m
+2022,se,ft,data engineer,70000,usd,70000,us,0,us,m
+2022,se,ft,data scientist,130000,usd,130000,us,0,us,m
+2022,se,ft,data scientist,95000,usd,95000,us,0,us,m
+2022,se,ft,data scientist,203500,usd,203500,us,0,us,m
+2022,se,ft,data scientist,152000,usd,152000,us,0,us,m
+2022,se,ft,data engineer,197430,usd,197430,us,100,us,m
+2022,se,ft,data engineer,134760,usd,134760,us,100,us,m
+2022,mi,ft,data scientist,120000,usd,120000,us,100,us,m
+2022,se,ft,data engineer,197000,usd,197000,us,0,us,m
+2022,se,ft,data engineer,99000,usd,99000,us,0,us,m
+2022,se,ft,data engineer,162000,usd,162000,us,100,us,m
+2022,mi,ft,data engineer,105120,eur,110446,lt,0,lt,m
+2022,mi,ft,data engineer,75360,eur,79178,lt,0,lt,m
+2022,mi,ft,data science consultant,57000,gbp,70186,gb,0,gb,m
+2022,mi,ft,data science consultant,42000,gbp,51716,gb,0,gb,m
+2022,se,ft,data architect,149040,usd,149040,us,100,us,m
+2022,se,ft,data architect,113900,usd,113900,us,100,us,m
+2021,se,ft,data analyst,115000,usd,115000,us,100,us,s
+2022,se,ft,data analyst,171000,usd,171000,us,100,au,l
+2022,en,ft,data analytics engineer,13000,usd,13000,ar,100,ar,s
+2022,en,fl,data analytics consultant,50000,usd,50000,be,100,us,s
+2022,se,ft,data scientist,185900,usd,185900,us,0,us,m
+2022,se,ft,data scientist,129300,usd,129300,us,0,us,m
+2022,se,ft,data engineer,230000,usd,230000,us,100,us,m
+2022,se,ft,data engineer,154600,usd,154600,us,100,us,m
+2022,mi,ft,data engineer,75000,usd,75000,us,100,us,m
+2022,se,ft,data engineer,213000,usd,213000,us,0,us,m
+2022,se,ft,data engineer,152000,usd,152000,us,0,us,m
+2022,se,ft,data scientist,120000,usd,120000,us,100,us,m
+2022,se,ft,data scientist,110000,usd,110000,us,0,us,m
+2022,se,ft,data scientist,70000,usd,70000,us,0,us,m
+2022,se,ft,machine learning software engineer,227200,usd,227200,ca,100,ca,m
+2022,se,ft,machine learning software engineer,168000,usd,168000,ca,100,ca,m
+2021,en,ft,3d computer vision researcher,20000,usd,20000,as,0,as,m
+2022,mi,ft,data scientist,61000,eur,64090,de,0,de,m
+2022,mi,ft,data scientist,58000,eur,60938,de,0,de,m
+2022,se,ft,ml engineer,243000,usd,243000,us,100,us,m
+2022,se,ft,ml engineer,183000,usd,183000,us,100,us,m
+2022,se,ft,data engineer,150000,usd,150000,us,0,us,m
+2022,mi,ft,data scientist,130000,usd,130000,us,100,us,m
+2022,mi,ft,data scientist,90000,usd,90000,us,100,us,m
+2022,mi,ft,data analyst,165000,usd,165000,us,0,us,m
+2022,mi,ft,data analyst,124000,usd,124000,us,0,us,m
+2022,se,ft,data engineer,178000,usd,178000,ca,0,ca,m
+2022,se,ft,data engineer,132000,usd,132000,ca,0,ca,m
+2022,se,ft,data analyst,116000,usd,116000,us,100,us,m
+2022,se,ft,data analyst,96000,usd,96000,us,100,us,m
+2022,se,ft,data analyst,75000,gbp,92350,gb,0,gb,m
+2022,se,ft,data analyst,57000,gbp,70186,gb,0,gb,m
+2022,se,ft,data analyst,105000,usd,105000,us,0,us,m
+2022,se,ft,data analyst,70000,usd,70000,us,0,us,m
+2022,mi,ft,machine learning researcher,137000,cad,105236,ca,50,ca,l
+2022,se,ft,data analyst,100000,usd,100000,us,0,us,m
+2022,en,ft,machine learning engineer,189750,usd,189750,us,0,us,m
+2022,en,ft,machine learning engineer,140250,usd,140250,us,0,us,m
+2022,se,ft,data analyst,130000,usd,130000,us,0,us,m
+2022,mi,ft,data analyst,160000,usd,160000,us,0,us,m
+2022,mi,ft,data analyst,109000,usd,109000,us,0,us,m
+2022,se,ft,research engineer,250000,usd,250000,us,0,us,m
+2022,se,ft,research engineer,150000,usd,150000,us,0,us,m
+2022,mi,ft,data analyst,206000,usd,206000,us,0,us,m
+2022,se,ft,data engineer,135000,usd,135000,us,0,us,m
+2022,se,ft,machine learning engineer,110000,eur,115573,fr,100,fr,m
+2022,se,ft,machine learning engineer,70000,eur,73546,fr,100,fr,m
+2022,se,ft,data engineer,40000,eur,42026,es,0,es,m
+2022,se,ft,data engineer,191200,usd,191200,us,0,us,m
+2022,en,ft,machine learning research engineer,63000,eur,66192,de,50,de,l
+2022,en,ft,3d computer vision researcher,50000,usd,50000,us,100,cr,s
+2022,se,ft,data engineer,230000,usd,230000,us,0,us,l
+2022,se,ft,data engineer,154600,usd,154600,us,0,us,l
+2022,mi,ft,data analyst,80000,usd,80000,us,100,us,l
+2022,se,ft,analytics engineer,135000,usd,135000,us,0,us,m
+2022,se,ft,analytics engineer,110000,usd,110000,us,0,us,m
+2022,mi,ft,data analytics manager,155000,usd,155000,us,0,us,m
+2022,mi,ft,data analytics manager,140000,usd,140000,us,0,us,m
+2022,se,ft,data engineer,205000,usd,205000,us,100,us,m
+2022,se,ft,data engineer,179500,usd,179500,us,0,us,m
+2022,se,ft,data engineer,134000,usd,134000,us,0,us,m
+2022,se,ft,data scientist,145000,usd,145000,us,100,us,m
+2022,se,ft,data architect,235000,usd,235000,us,100,us,m
+2022,se,ft,data architect,175000,usd,175000,us,100,us,m
+2022,en,ft,data science consultant,26000,eur,27317,es,50,es,l
+2022,mi,ft,data engineer,90000,usd,90000,us,100,us,m
+2022,mi,ft,data specialist,165000,usd,165000,us,0,us,m
+2022,mi,ft,data specialist,135000,usd,135000,us,0,us,m
+2022,se,ft,data engineer,168400,usd,168400,us,0,us,m
+2022,se,ft,data engineer,105200,usd,105200,us,0,us,m
+2022,mi,ft,deep learning engineer,70000,gbp,86193,gb,100,gb,m
+2022,mi,ft,deep learning engineer,40000,gbp,49253,gb,100,gb,m
+2022,se,ft,data engineer,200000,usd,200000,us,0,us,m
+2022,se,ft,data scientist,198800,usd,198800,us,0,us,m
+2022,se,ft,data scientist,122600,usd,122600,us,0,us,m
+2022,en,fl,machine learning engineer,100000,usd,100000,ir,100,ir,m
+2022,mi,ft,bi data analyst,100000,eur,105066,fr,50,fr,m
+2022,mi,ft,analytics engineer,85000,gbp,104663,gb,0,gb,m
+2022,mi,ft,analytics engineer,60000,gbp,73880,gb,0,gb,m
+2022,se,ft,data engineer,125000,usd,125000,us,100,us,m
+2022,se,ft,data engineer,110000,usd,110000,us,100,us,m
+2022,se,ft,data scientist,148000,usd,148000,us,100,us,m
+2022,se,ft,data scientist,107000,usd,107000,us,100,us,m
+2022,mi,ft,data analyst,100000,usd,100000,ca,0,ca,m
+2022,mi,ft,data analyst,65000,usd,65000,ca,0,ca,m
+2022,se,ft,data engineer,60000,eur,63040,pt,0,pt,m
+2022,se,ft,data engineer,35000,eur,36773,pt,0,pt,m
+2022,se,ft,data science manager,245100,usd,245100,us,0,us,m
+2022,se,ft,data scientist,168000,usd,168000,us,100,us,m
+2022,se,ft,data scientist,130000,usd,130000,us,100,us,m
+2022,mi,ft,data engineer,161000,usd,161000,us,100,us,m
+2022,mi,ft,data engineer,118000,usd,118000,us,100,us,m
+2022,se,ft,applied scientist,205000,usd,205000,us,100,us,m
+2022,se,ft,data science manager,247500,usd,247500,us,0,us,m
+2022,se,ft,data science manager,172200,usd,172200,us,0,us,m
+2022,se,ft,data management specialist,65000,eur,68293,it,0,it,l
+2022,se,ft,data analyst,177000,usd,177000,us,0,us,m
+2022,se,ft,data analyst,131000,usd,131000,us,0,us,m
+2022,se,ft,data engineer,146000,usd,146000,us,0,us,m
+2022,se,ft,data engineer,102000,usd,102000,us,0,us,m
+2022,mi,ft,data engineer,80000,usd,80000,us,0,us,m
+2022,mi,ft,data engineer,65000,usd,65000,us,0,us,m
+2022,se,ft,data engineer,50000,gbp,61566,gb,100,gb,m
+2022,se,ft,data engineer,35000,gbp,43096,gb,100,gb,m
+2022,mi,ft,data engineer,175000,usd,175000,us,100,us,m
+2022,mi,ft,data engineer,135000,usd,135000,us,100,us,m
+2022,en,ft,data scientist,80000,usd,80000,us,0,us,m
+2022,se,ft,data engineer,231250,usd,231250,us,100,us,m
+2022,se,ft,data engineer,138750,usd,138750,us,100,us,m
+2022,se,ft,analytics engineer,193750,usd,193750,us,100,us,m
+2022,se,ft,analytics engineer,116250,usd,116250,us,100,us,m
+2022,se,ft,analytics engineer,231250,usd,231250,us,100,us,m
+2022,se,ft,analytics engineer,138750,usd,138750,us,100,us,m
+2022,se,ft,data engineer,193750,usd,193750,us,100,us,m
+2022,se,ft,data engineer,116250,usd,116250,us,100,us,m
+2022,se,ft,data scientist,208000,usd,208000,us,100,us,m
+2022,se,ft,data scientist,127000,usd,127000,us,100,us,m
+2022,se,ft,research scientist,196000,usd,196000,us,100,us,m
+2021,mi,fl,autonomous vehicle technician,45555,usd,45555,as,50,bs,m
+2022,se,ft,data scientist,205000,usd,205000,us,100,us,m
+2022,se,ft,data scientist,185000,usd,185000,us,100,us,m
+2022,se,ft,machine learning engineer,247500,usd,247500,us,0,us,m
+2022,se,ft,machine learning engineer,172200,usd,172200,us,0,us,m
+2022,se,ft,data analyst,110000,usd,110000,us,0,us,m
+2022,se,ft,data scientist,225000,usd,225000,us,0,us,m
+2022,se,ft,data scientist,156400,usd,156400,us,0,us,m
+2022,mi,ft,machine learning engineer,85000,gbp,104663,gb,0,gb,m
+2022,mi,ft,machine learning engineer,65000,gbp,80036,gb,0,gb,m
+2022,se,ft,data scientist,140700,usd,140700,us,0,us,m
+2022,se,ft,data scientist,93800,usd,93800,us,0,us,m
+2022,se,ft,data scientist,135000,usd,135000,us,100,us,m
+2022,en,pt,bi analyst,12000,usd,12000,mx,100,us,l
+2022,mi,ft,machine learning engineer,100000,chf,104697,ch,100,ch,l
+2022,en,ft,machine learning developer,33000,usd,33000,it,100,de,s
+2022,en,ft,machine learning scientist,33000,eur,34672,it,100,de,s
+2022,se,ft,machine learning engineer,201000,usd,201000,us,0,us,m
+2022,se,ft,machine learning engineer,119000,usd,119000,us,0,us,m
+2022,se,ft,data engineer,175000,usd,175000,us,100,us,m
+2022,se,ft,data analyst,154560,usd,154560,us,0,us,m
+2022,se,ft,data analyst,123648,usd,123648,us,0,us,m
+2022,mi,ft,data engineer,170000,usd,170000,us,0,us,m
+2022,mi,ft,data engineer,145000,usd,145000,us,0,us,m
+2022,se,ft,data engineer,135000,usd,135000,us,100,us,m
+2022,se,ft,data engineer,100000,usd,100000,us,100,us,m
+2022,se,ft,data scientist,247500,usd,247500,us,0,us,m
+2022,se,ft,data scientist,172200,usd,172200,us,0,us,m
+2022,se,ft,data scientist,177500,usd,177500,us,100,us,m
+2022,se,ft,data scientist,134000,usd,134000,us,100,us,m
+2022,se,ft,data architect,192564,usd,192564,us,100,us,m
+2022,se,ft,data architect,144854,usd,144854,us,100,us,m
+2022,se,ft,data engineer,179305,usd,179305,us,100,us,m
+2022,se,ft,data engineer,142127,usd,142127,us,100,us,m
+2022,se,ft,data engineer,225000,usd,225000,us,100,us,m
+2022,se,ft,data scientist,243900,usd,243900,us,100,us,m
+2022,se,ft,data scientist,156600,usd,156600,us,100,us,m
+2022,mi,ft,data analyst,79000,usd,79000,us,0,us,m
+2022,mi,ft,data scientist lead,85000,eur,89306,at,50,at,l
+2022,se,ft,data engineer,182500,usd,182500,us,100,us,m
+2022,se,ft,data engineer,128500,usd,128500,us,100,us,m
+2022,en,ft,data manager,77300,usd,77300,us,100,us,m
+2022,en,ft,data manager,45600,usd,45600,us,100,us,m
+2022,se,ft,data analyst,110000,usd,110000,us,100,us,m
+2022,se,ft,data architect,210000,usd,210000,us,100,us,m
+2022,se,ft,data architect,136000,usd,136000,us,100,us,m
+2022,se,ft,cloud data engineer,12000,eur,12608,sk,100,sk,s
+2022,se,ft,data engineer,170000,usd,170000,us,100,us,m
+2022,se,ft,data engineer,140000,usd,140000,us,100,us,m
+2022,se,ft,data engineer,247500,usd,247500,us,0,us,m
+2022,se,ft,data engineer,172200,usd,172200,us,0,us,m
+2022,se,ft,data engineer,225000,usd,225000,us,0,us,m
+2022,se,ft,data engineer,184100,usd,184100,us,0,us,m
+2022,mi,ft,data scientist,100000,usd,100000,us,100,us,m
+2022,mi,ft,data scientist,85000,usd,85000,us,100,us,m
+2022,mi,ft,data scientist,78000,usd,78000,us,100,us,m
+2022,se,ft,data engineer,161000,usd,161000,us,100,us,m
+2022,ex,ft,head of data,205000,usd,205000,us,0,us,m
+2022,ex,ft,head of data,160000,usd,160000,us,0,us,m
+2022,en,ft,data engineer,50000,gbp,61566,gb,100,gb,m
+2022,en,ft,data engineer,40000,gbp,49253,gb,100,gb,m
+2022,se,ft,data scientist,245000,usd,245000,us,0,us,m
+2022,se,ft,data scientist,180000,usd,180000,us,0,us,m
+2022,se,ft,data engineer,220000,usd,220000,us,0,us,m
+2022,se,ft,data scientist,198440,usd,198440,us,0,us,l
+2022,se,ft,data scientist,144000,usd,144000,us,0,us,l
+2022,se,ft,data engineer,240000,usd,240000,us,0,us,m
+2022,se,ft,data scientist,198440,usd,198440,us,0,us,m
+2022,se,ft,data scientist,144000,usd,144000,us,0,us,m
+2022,mi,ft,data analyst,150000,usd,150000,us,100,us,m
+2022,mi,ft,data scientist,47000,gbp,57872,gb,50,gb,m
+2022,en,ft,data analyst,64000,usd,64000,us,100,us,l
+2022,en,ft,data scientist,38000,eur,39925,fr,50,fr,l
+2022,se,ft,machine learning engineer,187200,usd,187200,ca,100,ca,m
+2022,se,ft,machine learning engineer,116100,usd,116100,ca,100,ca,m
+2022,se,ft,data analyst,150000,usd,150000,us,0,us,m
+2022,se,ft,data analyst,127000,usd,127000,us,0,us,m
+2022,se,ft,data engineer,275000,usd,275000,us,100,us,m
+2022,se,ft,data engineer,166000,usd,166000,us,100,us,m
+2022,se,ft,data scientist,159699,usd,159699,us,0,us,m
+2022,se,ft,data scientist,138938,usd,138938,us,0,us,m
+2022,en,ft,bi analyst,76000,usd,76000,us,50,us,l
+2022,se,ft,analytics engineer,84000,gbp,103432,gb,0,gb,m
+2022,se,ft,analytics engineer,75000,gbp,92350,gb,0,gb,m
+2022,se,ft,data analyst,80000,usd,80000,us,0,us,m
+2022,se,ft,data analyst,52500,usd,52500,us,0,us,m
+2022,se,ft,data engineer,236000,usd,236000,us,100,us,m
+2022,se,ft,data engineer,182000,usd,182000,us,100,us,m
+2022,se,ft,data scientist,180000,usd,180000,us,100,us,m
+2022,se,ft,data analyst,135000,usd,135000,us,100,us,m
+2022,mi,ft,research engineer,240000,usd,240000,us,100,us,m
+2022,en,pt,data analyst,125404,usd,125404,cn,50,us,s
+2022,se,ft,data engineer,195000,usd,195000,us,100,us,m
+2022,se,ft,data engineer,110000,usd,110000,us,0,us,m
+2022,se,ft,data operations analyst,123000,usd,123000,us,0,us,m
+2022,se,ft,data operations analyst,92250,usd,92250,us,0,us,m
+2022,mi,ft,ml engineer,180000,usd,180000,us,100,us,m
+2022,mi,ft,ml engineer,100000,usd,100000,us,100,us,m
+2022,se,ft,data engineer,97000,usd,97000,us,100,us,m
+2022,se,ft,data engineer,90000,usd,90000,us,100,us,m
+2022,se,ft,machine learning engineer,180000,usd,180000,us,100,us,m
+2022,se,ft,data engineer,260000,usd,260000,us,0,us,m
+2022,se,ft,data engineer,180000,usd,180000,us,0,us,m
+2022,ex,ft,analytics engineer,210000,usd,210000,us,100,us,m
+2022,ex,ft,analytics engineer,157000,usd,157000,us,100,us,m
+2022,mi,ft,data analyst,80000,usd,80000,us,0,us,m
+2022,mi,ft,data analyst,52500,usd,52500,us,0,us,m
+2022,se,ft,data architect,128000,usd,128000,us,0,us,m
+2022,se,ft,data architect,81500,usd,81500,us,0,us,m
+2022,se,ft,data operations engineer,105000,usd,105000,us,0,us,m
+2022,se,ft,data operations engineer,70000,usd,70000,us,0,us,m
+2022,se,ft,data scientist,175000,usd,175000,us,0,us,m
+2022,se,ft,data scientist,122500,usd,122500,us,0,us,m
+2022,se,ft,data engineer,171000,usd,171000,us,0,us,m
+2022,se,ft,data engineer,117000,usd,117000,us,0,us,m
+2022,se,ft,data scientist,202800,usd,202800,us,0,us,l
+2022,se,ft,data scientist,104300,usd,104300,us,0,us,l
+2022,se,ft,data analyst,35000,eur,36773,es,0,es,m
+2022,mi,ft,data scientist,30000,usd,30000,mx,100,mx,l
+2022,mi,ft,analytics engineer,78000,usd,78000,br,100,br,m
+2022,mi,ft,analytics engineer,48000,usd,48000,br,100,br,m
+2022,mi,ft,data engineer,78000,usd,78000,br,100,br,m
+2022,mi,ft,data engineer,42000,usd,42000,br,100,br,m
+2022,se,ft,data architect,230400,usd,230400,us,0,us,m
+2022,mi,ft,bi analyst,78000,usd,78000,br,100,br,m
+2022,mi,ft,bi analyst,48000,usd,48000,br,100,br,m
+2022,se,ft,data analyst,175950,usd,175950,us,100,us,m
+2022,se,ft,data analyst,130050,usd,130050,us,100,us,m
+2022,se,ft,data engineer,205600,usd,205600,us,0,us,l
+2022,se,ft,data engineer,105700,usd,105700,us,0,us,l
+2022,se,ft,data analyst,236600,usd,236600,us,100,us,m
+2022,mi,ft,data scientist,84000,usd,84000,br,100,br,m
+2022,mi,ft,data scientist,54000,usd,54000,br,100,br,m
+2022,en,ft,data scientist,80000,usd,80000,us,100,us,l
+2022,se,ft,marketing data analyst,200000,usd,200000,gb,100,gb,s
+2022,en,ft,data scientist,96000,cad,73742,ca,100,ca,l
+2022,se,ft,data science lead,165000,usd,165000,us,50,us,s
+2022,en,ft,data scientist,27000,gbp,33246,gb,50,gb,l
+2021,mi,ft,data engineer,100000,aud,75050,au,50,au,l
+2022,en,ft,machine learning engineer,108000,usd,108000,us,0,us,s
+2022,se,ft,product data scientist,8000,usd,8000,in,100,sg,l
+2022,se,ft,data scientist,155000,usd,155000,us,100,us,m
+2022,se,ft,data scientist,38000,usd,38000,us,100,us,m
+2022,mi,ft,data analyst,85000,usd,85000,us,0,us,m
+2022,mi,ft,data analyst,65000,usd,65000,us,0,us,m
+2022,mi,ft,data engineer,90000,gbp,110820,gb,0,gb,m
+2022,mi,ft,data engineer,75000,gbp,92350,gb,0,gb,m
+2022,se,ft,data scientist,153600,usd,153600,us,100,us,m
+2022,se,ft,data scientist,106800,usd,106800,us,100,us,m
+2022,se,ft,data scientist,50000,usd,50000,us,100,us,m
+2022,se,ft,data scientist,123400,usd,123400,us,0,us,m
+2022,se,ft,data scientist,88100,usd,88100,us,0,us,m
+2022,se,ft,data scientist,120000,usd,120000,us,100,us,s
+2022,se,ft,data scientist,55000,usd,55000,us,100,us,s
+2022,se,ft,analytics engineer,150000,usd,150000,us,0,us,m
+2022,se,ft,analytics engineer,120000,usd,120000,us,0,us,m
+2022,se,ft,data science consultant,139000,usd,139000,us,0,us,m
+2022,se,ft,data analyst,139600,usd,139600,us,0,us,m
+2022,se,ft,data analyst,85700,usd,85700,us,0,us,m
+2022,se,ft,data engineer,185000,usd,185000,us,100,us,m
+2022,se,ft,data engineer,50000,usd,50000,us,100,us,m
+2022,se,ft,data scientist,200000,usd,200000,us,100,us,m
+2022,mi,ft,ml engineer,148500,usd,148500,us,100,us,l
+2022,mi,ft,ml engineer,98200,usd,98200,us,100,us,l
+2022,se,ft,data analyst,115000,usd,115000,us,100,us,m
+2022,se,ft,data analyst,95000,usd,95000,us,100,us,m
+2022,se,ft,data architect,225000,usd,225000,us,100,us,m
+2022,se,ft,data architect,66000,usd,66000,us,100,us,m
+2022,mi,ft,data manager,134000,usd,134000,us,0,us,m
+2022,mi,ft,data manager,98000,usd,98000,us,0,us,m
+2022,mi,ft,data analyst,105000,usd,105000,us,0,us,m
+2022,mi,ft,data analyst,62000,usd,62000,us,0,us,m
+2022,en,ft,bi data analyst,57000,usd,57000,us,100,us,l
+2022,se,ft,big data engineer,210000,cad,161311,ca,50,ca,m
+2022,mi,ft,data scientist,144200,usd,144200,us,100,us,m
+2022,mi,ft,data scientist,115360,usd,115360,us,100,us,m
+2022,mi,ft,data scientist,120000,aud,83171,au,0,au,l
+2022,se,ft,data engineer,70000,eur,73546,pt,0,pt,m
+2022,se,ft,data engineer,40000,eur,42026,pt,0,pt,m
+2022,se,ft,data architect,180000,usd,180000,us,100,us,m
+2022,se,ft,data architect,160000,usd,160000,us,100,us,m
+2022,mi,ft,data scientist,108000,usd,108000,us,50,us,l
+2022,se,ft,machine learning manager,200000,usd,200000,us,100,us,m
+2022,se,ft,machine learning manager,150000,usd,150000,us,100,us,m
+2022,ex,ft,data manager,164000,cad,125976,ca,50,ca,l
+2022,se,ft,data engineer,188700,usd,188700,us,100,us,m
+2022,se,ft,data engineer,160395,usd,160395,us,100,us,m
+2022,se,ft,data scientist,198440,usd,198440,us,100,us,m
+2022,se,ft,data scientist,144000,usd,144000,us,100,us,m
+2022,se,ft,applied scientist,191475,usd,191475,us,100,us,m
+2022,se,ft,applied scientist,141525,usd,141525,us,100,us,m
+2022,mi,ft,data scientist,72000,eur,75648,de,100,de,s
+2022,se,ft,lead data scientist,156868,usd,156868,us,100,us,l
+2022,se,ft,bi analyst,200000,usd,200000,ng,100,ng,s
+2022,se,ft,lead machine learning engineer,66000,eur,69344,pt,100,pt,l
+2022,mi,ft,nlp engineer,120000,czk,5132,cz,100,cz,m
+2022,se,ct,data analyst,90000,usd,90000,us,100,us,m
+2022,mi,ft,research scientist,120000,eur,126080,de,0,de,s
+2022,mi,ft,research scientist,80000,eur,84053,de,0,de,s
+2022,se,ft,data engineer,200000,usd,200000,us,100,us,m
+2022,se,ft,data engineer,180000,usd,180000,us,100,us,m
+2022,mi,ft,analytics engineer,108000,usd,108000,us,100,us,m
+2022,mi,ft,analytics engineer,85000,usd,85000,us,100,us,m
+2022,se,ft,data engineer,165000,usd,165000,us,100,us,m
+2022,se,ft,data engineer,132000,usd,132000,us,100,us,m
+2022,se,ft,analytics engineer,130000,usd,130000,us,100,us,m
+2022,se,ft,analytics engineer,110000,usd,110000,us,100,us,m
+2022,mi,ft,bi data analyst,65000,aud,45050,au,50,au,l
+2021,en,ft,data analyst,56000,aud,42028,au,50,au,l
+2022,mi,ft,data analytics engineer,135000,usd,135000,us,100,us,l
+2022,se,ft,data engineer,178800,usd,178800,us,100,us,l
+2022,se,ft,data engineer,132100,usd,132100,us,100,us,l
+2022,en,ft,data analyst,20000,usd,20000,cr,50,us,m
+2022,se,ft,machine learning engineer,140000,usd,140000,ca,0,ca,m
+2022,se,ft,machine learning engineer,110000,usd,110000,ca,0,ca,m
+2022,se,ft,data engineer,160000,usd,160000,us,100,us,m
+2022,se,ft,data engineer,85000,usd,85000,us,100,us,m
+2022,se,ft,etl developer,250000,usd,250000,us,100,us,m
+2022,se,ft,etl developer,63000,usd,63000,us,100,us,m
+2022,ex,ft,data engineer,187200,usd,187200,us,100,us,m
+2022,ex,ft,data engineer,116100,usd,116100,us,100,us,m
+2022,mi,ft,data scientist,10000,usd,10000,tr,0,tr,m
+2022,se,ft,data engineer,145000,usd,145000,us,100,us,m
+2022,se,ft,data engineer,229998,usd,229998,us,0,us,l
+2022,se,ft,data engineer,154545,usd,154545,us,0,us,l
+2022,se,ft,data scientist,215000,usd,215000,us,0,us,l
+2022,se,ft,data scientist,159000,usd,159000,us,0,us,l
+2022,en,ft,ai scientist,50000,usd,50000,us,100,us,m
+2022,se,ft,data scientist lead,183000,usd,183000,us,100,us,l
+2022,se,ft,data analyst,99750,usd,99750,us,100,us,m
+2022,se,ft,data analyst,68400,usd,68400,us,100,us,m
+2022,se,ft,data scientist,236900,usd,236900,us,100,us,l
+2022,se,ft,data scientist,159200,usd,159200,us,100,us,l
+2022,se,ft,data science manager,243225,usd,243225,us,100,us,m
+2022,se,ft,data science manager,179775,usd,179775,us,100,us,m
+2022,se,ft,data scientist,128000,usd,128000,us,100,us,m
+2022,se,ft,data scientist,191475,usd,191475,us,100,us,m
+2022,se,ft,data scientist,141525,usd,141525,us,100,us,m
+2022,se,ft,data scientist,218000,usd,218000,us,0,us,m
+2022,se,ft,data scientist,145300,usd,145300,us,0,us,m
+2022,se,ft,ml engineer,195400,usd,195400,us,100,us,l
+2022,se,ft,ml engineer,131300,usd,131300,us,100,us,l
+2022,en,ft,data specialist,105000,usd,105000,cl,100,us,l
+2022,se,ft,data scientist,207000,usd,207000,us,100,us,m
+2022,se,ft,data scientist,153000,usd,153000,us,100,us,m
+2022,se,ft,data analyst,99000,usd,99000,us,0,us,m
+2022,se,ft,machine learning engineer,200000,usd,200000,pr,100,pr,m
+2022,se,ft,machine learning engineer,135000,usd,135000,pr,100,pr,m
+2022,se,ft,data engineer,195700,usd,195700,us,0,us,m
+2022,se,ft,data engineer,130500,usd,130500,us,0,us,m
+2022,se,ft,ml engineer,130000,usd,130000,us,100,us,m
+2022,se,ft,ml engineer,84000,usd,84000,us,100,us,m
+2022,mi,ft,data operations engineer,100000,usd,100000,us,100,us,m
+2022,mi,ft,data operations engineer,60000,usd,60000,us,100,us,m
+2022,mi,ft,data engineer,65000,gbp,80036,gb,100,gb,m
+2022,mi,ft,data engineer,55000,gbp,67723,gb,100,gb,m
+2022,se,ft,data engineer,141300,usd,141300,us,0,us,m
+2022,se,ft,data engineer,102100,usd,102100,us,0,us,m
+2022,mi,ft,business data analyst,150000,usd,150000,us,100,us,l
+2022,mi,ft,data scientist,83000,gbp,102200,gb,100,gb,m
+2022,se,ft,data analyst,144000,usd,144000,us,100,us,m
+2022,se,ft,data analyst,113000,usd,113000,us,100,us,m
+2022,en,ft,ai scientist,30000,eur,31520,pt,100,es,m
+2022,se,ft,data architect,195400,usd,195400,us,100,us,l
+2022,se,ft,data architect,131300,usd,131300,us,100,us,l
+2022,se,ft,machine learning engineer,195400,usd,195400,us,100,us,l
+2022,se,ft,machine learning engineer,131300,usd,131300,us,100,us,l
+2022,se,ft,data engineer,80000,usd,80000,us,100,us,m
+2022,mi,ct,nlp engineer,60000,usd,60000,in,100,us,s
+2022,se,ft,machine learning engineer,60000,eur,63040,fi,50,fi,s
+2022,en,ft,business data analyst,50000,usd,50000,in,100,as,l
+2022,se,ft,data engineer,105000,usd,105000,us,100,us,m
+2022,se,ft,analytics engineer,190000,usd,190000,us,100,us,m
+2022,se,ft,analytics engineer,140000,usd,140000,us,100,us,m
+2022,se,ft,data scientist,180000,usd,180000,us,100,us,l
+2022,se,ft,data scientist,165000,usd,165000,us,100,us,l
+2022,se,ft,applied machine learning scientist,108000,usd,108000,us,0,us,l
+2021,en,ft,machine learning research engineer,20000,usd,20000,fr,50,fr,m
+2022,se,ft,data scientist,179400,usd,179400,us,0,us,m
+2022,se,ft,data scientist,154000,usd,154000,us,0,us,m
+2022,se,ft,machine learning scientist,193900,usd,193900,us,0,us,m
+2022,se,ft,machine learning scientist,129300,usd,129300,us,0,us,m
+2022,ex,ft,data science manager,222640,usd,222640,us,0,us,m
+2022,ex,ft,data science manager,182160,usd,182160,us,0,us,m
+2022,mi,ft,data engineer,150000,usd,150000,us,0,us,m
+2022,mi,ft,data engineer,100000,usd,100000,us,0,us,m
+2022,se,ft,analytics engineer,122500,usd,122500,us,100,us,m
+2022,se,ft,analytics engineer,100000,usd,100000,us,100,us,m
+2022,ex,ft,data engineer,260000,usd,260000,us,100,us,m
+2021,en,ft,machine learning developer,15000,usd,15000,th,100,th,l
+2022,se,ft,data engineer,193000,usd,193000,es,100,us,m
+2022,en,ft,data scientist,93000,usd,93000,us,0,us,m
+2022,en,ft,data scientist,73000,usd,73000,us,0,us,m
+2022,en,ft,data analyst,40300,brl,7799,br,100,br,l
+2022,se,ft,data scientist,136994,usd,136994,us,100,us,m
+2022,se,ft,data scientist,101570,usd,101570,us,100,us,m
+2022,se,ft,director of data science,55000,eur,57786,fr,50,fr,l
+2022,mi,ft,data analyst,136000,usd,136000,us,100,us,m
+2022,mi,ft,data analyst,112000,usd,112000,us,100,us,m
+2022,se,ft,data scientist,172000,usd,172000,us,100,us,m
+2022,se,ft,data engineer,215000,usd,215000,us,0,us,m
+2022,se,ft,data engineer,164000,usd,164000,us,0,us,m
+2021,en,ft,data engineer,33000,gbp,45390,gb,50,gb,l
+2022,mi,ft,data analyst,97500,usd,97500,us,100,us,l
+2022,se,ft,applied scientist,212800,usd,212800,us,100,us,m
+2022,se,ft,applied scientist,142800,usd,142800,us,100,us,m
+2022,mi,ft,data scientist,70000,eur,73546,nl,50,nl,l
+2022,en,ft,data scientist,50000,usd,50000,us,50,de,m
+2022,se,ft,data scientist,151800,usd,151800,us,0,us,m
+2022,se,ft,data scientist,130240,usd,130240,us,0,us,m
+2022,se,ft,analytics engineer,165000,usd,165000,us,100,us,m
+2022,se,ft,analytics engineer,140250,usd,140250,us,100,us,m
+2022,se,ft,data scientist,179400,usd,179400,us,100,us,m
+2022,se,ft,data scientist,154000,usd,154000,us,100,us,m
+2022,mi,ft,financial data analyst,75000,usd,75000,us,0,us,m
+2022,mi,ft,data engineer,80000,eur,84053,gr,100,gr,m
+2022,mi,ft,data engineer,70000,eur,73546,gr,100,gr,m
+2022,mi,ft,data engineer,80000,gbp,98506,gb,100,gb,m
+2022,mi,ft,data engineer,70000,gbp,86193,gb,100,gb,m
+2022,mi,ft,data engineer,80000,eur,84053,es,100,es,m
+2022,mi,ft,data engineer,70000,eur,73546,es,100,es,m
+2022,se,ft,analytics engineer,83376,gbp,102663,gb,100,gb,m
+2022,se,ft,analytics engineer,65004,gbp,80041,gb,100,gb,m
+2022,se,ft,data engineer,84958,gbp,104611,gb,100,gb,m
+2022,se,ft,data engineer,66822,gbp,82280,gb,100,gb,m
+2022,se,ft,data scientist,191475,usd,191475,us,0,us,m
+2022,se,ft,data scientist,141525,usd,141525,us,0,us,m
+2022,se,ft,data analyst,115000,usd,115000,us,0,us,l
+2022,en,ft,data scientist,30000,eur,31520,es,50,es,m
+2022,se,ft,data operations analyst,81000,usd,81000,us,100,us,m
+2022,se,ft,data operations analyst,66000,usd,66000,us,100,us,m
+2022,en,ft,data analyst,46000,usd,46000,us,100,us,l
+2022,en,ft,data engineer,80000,usd,80000,us,100,us,l
+2022,ex,ft,machine learning scientist,200000,usd,200000,us,100,us,s
+2022,ex,ft,machine learning scientist,180000,usd,180000,us,100,us,s
+2022,ex,ft,ai scientist,200000,usd,200000,us,100,us,s
+2022,se,ft,data scientist,204100,usd,204100,us,0,us,m
+2022,se,ft,data scientist,136100,usd,136100,us,0,us,m
+2022,se,ft,analytics engineer,250000,usd,250000,us,0,us,m
+2022,se,ft,analytics engineer,63000,usd,63000,us,0,us,m
+2022,mi,ft,data scientist,96000,gbp,118208,gb,0,gb,m
+2022,mi,ft,data scientist,90000,gbp,110820,gb,0,gb,m
+2021,en,pt,computer vision software engineer,120000,dkk,19073,dk,50,dk,l
+2022,se,ft,data specialist,95000,usd,95000,us,100,us,m
+2022,se,ft,data specialist,70000,usd,70000,us,100,us,m
+2022,mi,ft,applied machine learning scientist,75000,usd,75000,bo,100,us,m
+2022,mi,ct,analytics engineer,7500,usd,7500,bo,50,bo,m
+2022,mi,ft,data analyst,113000,usd,113000,us,0,us,l
+2022,se,ft,data scientist,170000,usd,170000,us,100,us,m
+2022,mi,ft,data analytics consultant,113000,usd,113000,us,100,us,l
+2022,mi,ft,product data analyst,140000,usd,140000,us,100,us,m
+2021,se,ft,data analyst,50000,usd,50000,ph,100,ph,s
+2022,mi,ft,bi data analyst,77000,aud,53368,au,100,au,m
+2022,se,ft,lead data scientist,28500,eur,29944,pt,50,pt,s
+2022,se,ft,data scientist,160000,usd,160000,us,0,us,l
+2022,se,ft,data scientist,119300,usd,119300,us,0,us,l
+2022,mi,ft,research scientist,145000,usd,145000,us,50,us,l
+2022,se,ft,data engineer,90000,usd,90000,us,0,us,m
+2022,se,ft,etl developer,146200,usd,146200,us,100,us,m
+2022,se,ft,etl developer,124270,usd,124270,us,100,us,m
+2022,mi,ft,data scientist,225000,usd,225000,us,0,us,m
+2022,mi,ft,data scientist,160000,usd,160000,us,0,us,m
+2022,mi,ft,data scientist,52000,eur,54634,nl,100,nl,s
+2022,se,ft,data engineer,185800,usd,185800,ca,100,ca,m
+2022,se,ft,data engineer,137400,usd,137400,ca,100,ca,m
+2022,se,ft,analytics engineer,245000,usd,245000,us,0,us,m
+2022,se,ft,analytics engineer,180000,usd,180000,us,0,us,m
+2022,se,ft,analytics engineer,203500,usd,203500,us,0,us,m
+2022,se,ft,analytics engineer,152000,usd,152000,us,0,us,m
+2022,se,ft,data engineer,250000,usd,250000,us,0,us,m
+2022,se,ft,data engineer,63000,usd,63000,us,0,us,m
+2022,se,ft,machine learning infrastructure engineer,186000,usd,186000,us,100,us,m
+2022,se,ft,machine learning infrastructure engineer,148800,usd,148800,us,100,us,m
+2022,mi,ft,machine learning engineer,104000,gbp,128058,gb,50,gb,l
+2022,en,ft,data scientist,82000,usd,82000,us,0,us,l
+2022,en,pt,data scientist,110000,usd,110000,do,100,fr,m
+2022,mi,ft,applied machine learning scientist,173000,usd,173000,us,50,us,m
+2022,se,ft,machine learning engineer,186000,usd,186000,us,100,us,m
+2022,se,ft,machine learning engineer,148800,usd,148800,us,100,us,m
+2022,en,ft,bi data analyst,32400,brl,6270,br,100,br,l
+2022,mi,ft,data science manager,158000,usd,158000,us,100,us,m
+2022,mi,ft,data science manager,134000,usd,134000,us,100,us,m
+2022,ex,ft,analytics engineer,200000,usd,200000,us,100,us,m
+2022,ex,ft,analytics engineer,150000,usd,150000,us,100,us,m
+2022,se,ft,data analyst,216200,usd,216200,us,0,us,m
+2022,se,ft,data analyst,144100,usd,144100,us,0,us,m
+2022,mi,ft,data scientist,110000,eur,115573,nl,0,nl,m
+2022,mi,ft,data scientist,85000,eur,89306,nl,0,nl,m
+2022,se,ft,etl developer,250000,usd,250000,us,0,us,m
+2022,se,ft,etl developer,63000,usd,63000,us,0,us,m
+2022,se,ft,machine learning engineer,135000,usd,135000,us,100,us,m
+2022,se,ft,machine learning engineer,85000,usd,85000,us,100,us,m
+2022,se,ft,data science manager,206000,usd,206000,us,100,us,m
+2022,se,ft,data science manager,175100,usd,175100,us,100,us,m
+2022,se,ft,machine learning engineer,189650,usd,189650,us,0,us,m
+2022,se,ft,machine learning engineer,164996,usd,164996,us,0,us,m
+2022,se,ft,data engineer,154000,usd,154000,us,100,us,m
+2022,se,ft,data engineer,126000,usd,126000,us,100,us,m
+2022,se,ft,machine learning engineer,200000,usd,200000,us,100,us,l
+2022,se,ft,machine learning engineer,150000,usd,150000,us,100,us,l
+2022,se,ft,analytics engineer,135000,usd,135000,us,100,us,m
+2022,mi,ft,data engineer,80000,gbp,98506,gb,0,gb,m
+2022,mi,ft,data engineer,60000,gbp,73880,gb,0,gb,m
+2022,se,ft,data analyst,117000,usd,117000,us,100,us,m
+2022,se,ft,data analyst,99450,usd,99450,us,100,us,m
+2022,se,ft,data engineer,200000,usd,200000,pr,100,pr,m
+2022,se,ft,data engineer,135000,usd,135000,pr,100,pr,m
+2022,se,ft,machine learning engineer,193900,usd,193900,us,0,us,m
+2022,se,ft,machine learning engineer,129300,usd,129300,us,0,us,m
+2022,en,ft,machine learning engineer,45000,gbp,55410,gb,100,gb,s
+2022,se,ft,data analyst,70000,gbp,86193,gb,0,gb,m
+2022,se,ft,data analyst,50000,gbp,61566,gb,0,gb,m
+2022,se,ft,data analyst,175000,usd,175000,us,100,us,m
+2022,se,ft,data analyst,130000,usd,130000,us,100,us,m
+2022,se,ft,data engineer,188100,usd,188100,us,0,us,m
+2022,se,ft,data engineer,139860,usd,139860,us,0,us,m
+2022,se,ft,machine learning engineer,248700,usd,248700,us,0,us,m
+2022,se,ft,machine learning engineer,167100,usd,167100,us,0,us,m
+2022,mi,ft,bi data analyst,48000,eur,50432,de,100,de,s
+2022,se,ft,data scientist,205000,usd,205000,us,0,us,m
+2022,se,ft,data architect,141300,usd,141300,us,0,us,m
+2022,se,ft,data architect,102100,usd,102100,us,0,us,m
+2022,en,ft,data analyst,50000,usd,50000,ar,100,ar,l
+2022,en,ft,data scientist,80000,eur,84053,be,100,be,l
+2022,mi,ft,lead data scientist,50000,gbp,61566,gb,50,gb,s
+2022,se,ft,data architect,250000,usd,250000,us,0,us,m
+2022,se,ft,data architect,63000,usd,63000,us,0,us,m
+2022,se,ft,data science manager,189500,usd,189500,us,100,us,l
+2022,se,ft,data science manager,140100,usd,140100,us,100,us,l
+2022,se,ft,data engineer,177600,usd,177600,us,100,us,l
+2022,se,ft,data engineer,131300,usd,131300,us,100,us,l
+2022,mi,ft,data engineer,24000,usd,24000,us,0,us,m
+2022,se,ft,machine learning engineer,202900,usd,202900,us,100,us,l
+2022,se,ft,data engineer,115000,usd,115000,us,100,us,m
+2022,en,ft,machine learning engineer,115000,usd,115000,us,50,us,l
+2022,mi,ft,machine learning engineer,193900,usd,193900,us,0,us,m
+2022,mi,ft,machine learning engineer,129300,usd,129300,us,0,us,m
+2022,se,ft,data scientist,140000,usd,140000,us,100,us,l
+2022,mi,ft,data analyst,216200,usd,216200,us,0,us,m
+2022,mi,ft,data analyst,144100,usd,144100,us,0,us,m
+2022,se,ft,machine learning scientist,216000,usd,216000,us,0,us,m
+2022,se,ft,machine learning scientist,144000,usd,144000,us,0,us,m
+2022,en,ft,data analyst,150000,usd,150000,us,100,us,l
+2022,en,ft,applied data scientist,50000,usd,50000,at,50,at,m
+2021,se,ft,cloud data architect,250000,usd,250000,us,50,us,l
+2022,ex,ft,research scientist,80000,eur,84053,nl,0,nl,l
+2022,mi,ft,data scientist,107000,gbp,131752,gb,100,gb,m
+2022,se,ft,analytics engineer,48000,usd,48000,ar,100,us,s
+2022,ex,ft,data science manager,260500,usd,260500,us,0,us,m
+2022,ex,ft,data science manager,175100,usd,175100,us,0,us,m
+2022,en,ft,data analyst,55000,usd,55000,us,100,us,s
+2022,mi,ft,data analyst,130000,usd,130000,us,100,us,m
+2022,se,ft,applied machine learning scientist,73400,eur,77119,fr,100,gb,l
+2022,en,ft,data scientist,49500,eur,52008,be,50,be,s
+2022,se,ft,data engineer,206699,usd,206699,us,0,us,m
+2022,se,ft,data engineer,99100,usd,99100,us,0,us,m
+2022,mi,ft,analytics engineer,200000,usd,200000,us,0,us,m
+2022,mi,ft,analytics engineer,54000,usd,54000,us,0,us,m
+2022,en,ft,analytics engineer,130000,usd,130000,us,50,us,l
+2022,se,ft,data engineer,100000,usd,100000,us,0,us,l
+2022,se,ft,data engineer,80000,usd,80000,us,0,us,l
+2022,se,ft,data scientist,100000,usd,100000,us,0,us,l
+2022,se,ft,data specialist,221300,usd,221300,us,100,us,l
+2022,se,ft,data specialist,148700,usd,148700,us,100,us,l
+2022,en,ft,machine learning engineer,30000,usd,30000,gb,100,gb,l
+2022,en,ft,data analyst,27000,eur,28368,fr,50,fr,m
+2022,mi,ft,data engineer,74000,gbp,91118,gb,0,gb,m
+2022,mi,ft,data engineer,50000,gbp,61566,gb,0,gb,m
+2022,mi,ft,data scientist,58000,eur,60938,de,100,de,s
+2022,se,ft,data science manager,249260,usd,249260,us,0,us,m
+2022,se,ft,data science manager,185400,usd,185400,us,0,us,m
+2022,mi,ft,data scientist,65000,gbp,80036,gb,50,gb,m
+2022,se,ft,data analyst,128875,usd,128875,us,100,us,m
+2022,se,ft,data analyst,93700,usd,93700,us,100,us,m
+2022,se,ft,machine learning engineer,100000,usd,100000,us,100,us,m
+2022,se,ft,data analyst,136260,usd,136260,us,100,us,m
+2022,se,ft,data analyst,109280,usd,109280,us,100,us,m
+2022,se,ft,data scientist,160000,usd,160000,us,100,us,l
+2022,se,ft,data scientist,92000,usd,92000,us,100,us,l
+2022,mi,ft,data engineer,110000,gbp,135446,gb,0,gb,m
+2022,mi,ft,data engineer,85000,gbp,104663,gb,0,gb,m
+2022,en,ft,data engineer,129000,usd,129000,us,100,us,l
+2022,en,ft,data engineer,86000,usd,86000,us,100,us,l
+2022,se,ft,business data analyst,100000,usd,100000,us,100,us,l
+2022,mi,ft,data scientist,25000,usd,25000,tr,50,tr,m
+2022,mi,ft,data analyst,90000,sgd,65257,sg,50,sg,m
+2022,mi,ft,ai scientist,200000,usd,200000,us,100,us,m
+2022,en,ft,machine learning developer,180000,usd,180000,us,100,us,l
+2022,mi,ft,data scientist,153000,usd,153000,us,100,us,l
+2022,se,ft,data analyst,150075,usd,150075,us,100,us,m
+2022,se,ft,data analyst,110925,usd,110925,us,100,us,m
+2022,mi,ft,machine learning scientist,22800,usd,22800,eg,100,eg,m
+2022,en,ft,data analyst,15000,usd,15000,id,0,id,l
+2022,se,ft,data science manager,193000,aud,133766,au,100,au,l
+2022,en,ft,machine learning engineer,83000,usd,83000,us,0,us,l
+2022,se,ft,data scientist,186000,usd,186000,us,0,us,m
+2022,se,ft,data scientist,148800,usd,148800,us,0,us,m
+2022,se,ft,data analyst,112900,usd,112900,us,0,us,m
+2022,se,ft,data analyst,90320,usd,90320,us,0,us,m
+2022,se,ft,ml engineer,240000,usd,240000,us,0,us,m
+2022,se,ft,ml engineer,160000,usd,160000,us,0,us,m
+2022,se,ft,data science manager,200000,usd,200000,us,100,us,m
+2022,mi,ft,data engineer,62500,eur,65666,de,50,de,s
+2022,mi,ft,ai scientist,200000,usd,200000,in,100,us,l
+2022,mi,ft,machine learning engineer,95000,gbp,116976,gb,0,gb,m
+2022,mi,ft,machine learning engineer,75000,gbp,92350,gb,0,gb,m
+2022,mi,ft,ai scientist,120000,usd,120000,us,0,us,m
+2022,se,ft,data analyst,112900,usd,112900,us,100,us,m
+2022,se,ft,data analyst,90320,usd,90320,us,100,us,m
+2022,se,ft,data analytics manager,145000,usd,145000,us,100,us,m
+2022,se,ft,data analytics manager,105400,usd,105400,us,100,us,m
+2022,se,ft,data scientist,215300,usd,215300,us,100,us,l
+2022,se,ft,data scientist,158200,usd,158200,us,100,us,l
+2022,se,ft,data engineer,209100,usd,209100,us,100,us,l
+2022,se,ft,data engineer,154600,usd,154600,us,100,us,l
+2022,se,ft,data analyst,115934,usd,115934,us,0,us,m
+2022,se,ft,data analyst,81666,usd,81666,us,0,us,m
+2022,se,ft,data engineer,155000,usd,155000,us,100,us,m
+2022,mi,ft,machine learning engineer,80000,eur,84053,fr,100,de,m
+2022,se,ft,data analyst,164000,usd,164000,us,0,us,m
+2022,se,ft,data analyst,132000,usd,132000,us,0,us,m
+2022,se,ft,data scientist,123000,usd,123000,us,100,us,m
+2022,mi,ft,etl developer,50000,eur,52533,gr,0,gr,m
+2022,ex,ft,lead data engineer,150000,cad,115222,ca,100,ca,s
+2022,se,ft,data engineer,165400,usd,165400,us,100,us,m
+2022,se,ft,data engineer,132320,usd,132320,us,100,us,m
+2022,se,ft,data architect,208775,usd,208775,us,100,us,m
+2022,se,ft,data architect,147800,usd,147800,us,100,us,m
+2022,se,ft,data engineer,136994,usd,136994,us,100,us,m
+2022,se,ft,data engineer,101570,usd,101570,us,100,us,m
+2022,en,ft,machine learning engineer,28500,gbp,35093,gb,100,gb,l
+2022,se,ft,data engineer,183600,usd,183600,us,100,us,l
+2022,se,ft,data engineer,100800,usd,100800,us,100,us,l
+2022,mi,ft,data analyst,40000,gbp,49253,gb,100,gb,m
+2022,mi,ft,data analyst,30000,gbp,36940,gb,100,gb,m
+2022,mi,ft,data analyst,40000,eur,42026,es,100,es,m
+2022,mi,ft,data analyst,30000,eur,31520,es,100,es,m
+2022,mi,ft,data analyst,40000,eur,42026,gr,100,gr,m
+2022,mi,ft,data analyst,30000,eur,31520,gr,100,gr,m
+2022,se,ft,data scientist,215300,usd,215300,us,0,us,l
+2022,se,ft,data scientist,140400,usd,140400,us,0,us,l
+2022,mi,ft,data engineer,60000,eur,63040,es,100,es,m
+2022,mi,ft,data engineer,45000,eur,47280,es,100,es,m
+2022,se,ft,data scientist,260000,usd,260000,us,100,us,m
+2022,mi,ft,data scientist,35000,gbp,43096,gb,0,gb,m
+2022,mi,ft,data engineer,60000,eur,63040,gr,100,gr,m
+2022,mi,ft,data engineer,45000,eur,47280,gr,100,gr,m
+2022,mi,ft,data engineer,45000,gbp,55410,gb,100,gb,m
+2021,mi,ft,machine learning engineer,43200,eur,51064,it,50,it,l
+2022,se,ft,data science engineer,60000,usd,60000,ar,100,mx,l
+2022,mi,ft,data engineer,82900,usd,82900,us,0,us,m
+2022,mi,ft,data engineer,63900,usd,63900,us,0,us,m
+2022,mi,ft,machine learning scientist,160000,usd,160000,us,100,us,l
+2022,mi,ft,machine learning scientist,112300,usd,112300,us,100,us,l
+2022,mi,ft,data science manager,241000,usd,241000,us,100,us,m
+2022,mi,ft,data science manager,159000,usd,159000,us,100,us,m
+2022,se,ft,data scientist,80000,usd,80000,us,0,us,m
+2022,mi,ft,data analyst,58000,usd,58000,us,0,us,s
+2022,se,ft,data engineer,136000,usd,136000,us,0,us,m
+2022,se,ft,data engineer,108800,usd,108800,us,0,us,m
+2022,ex,ft,data engineer,242000,usd,242000,us,100,us,m
+2022,ex,ft,data engineer,200000,usd,200000,us,100,us,m
+2022,mi,ft,data scientist,50000,gbp,61566,gb,0,gb,m
+2022,mi,ft,data scientist,30000,gbp,36940,gb,0,gb,m
+2022,mi,ft,data engineer,40000,gbp,49253,gb,0,gb,m
+2022,se,ft,data scientist,165220,usd,165220,us,100,us,m
+2022,se,ft,data scientist,120160,usd,120160,us,100,us,m
+2022,se,ft,data analyst,124190,usd,124190,us,100,us,m
+2022,se,ft,data engineer,181940,usd,181940,us,0,us,m
+2022,se,ft,data engineer,132320,usd,132320,us,0,us,m
+2022,se,ft,data engineer,220110,usd,220110,us,0,us,m
+2022,se,ft,data engineer,160080,usd,160080,us,0,us,m
+2022,se,ft,data scientist,180000,usd,180000,us,0,us,l
+2022,se,ft,data scientist,120000,usd,120000,us,0,us,l
+2022,mi,ft,data analyst,126500,usd,126500,us,0,us,m
+2022,mi,ft,data analyst,106260,usd,106260,us,0,us,m
+2022,se,ft,data analyst,116000,usd,116000,us,0,us,m
+2022,se,ft,data analyst,155000,usd,155000,us,100,us,m
+2022,se,ft,data analyst,120600,usd,120600,us,100,us,m
+2022,mi,ft,data scientist,130000,usd,130000,us,0,us,m
+2022,mi,ft,data scientist,90000,usd,90000,us,0,us,m
+2022,mi,ft,data engineer,170000,usd,170000,us,100,us,m
+2022,se,ft,data analyst,102100,usd,102100,us,100,us,m
+2022,se,ft,data analyst,84900,usd,84900,us,100,us,m
+2022,se,ft,data scientist,136620,usd,136620,us,100,us,m
+2022,se,ft,data scientist,99360,usd,99360,us,100,us,m
+2022,se,ft,data scientist,90000,gbp,110820,gb,0,gb,m
+2022,se,ft,data scientist,80000,gbp,98506,gb,0,gb,m
+2022,se,ft,data scientist,146000,usd,146000,us,100,us,m
+2022,en,ft,data engineer,35000,gbp,43096,gb,100,gb,m
+2022,ex,ft,data analyst,130000,usd,130000,us,100,us,m
+2022,ex,ft,data analyst,110000,usd,110000,us,100,us,m
+2022,se,ft,data analyst,170000,usd,170000,us,100,us,m
+2022,se,ft,data science manager,161342,usd,161342,us,100,us,m
+2022,se,ft,data science manager,137141,usd,137141,us,100,us,m
+2022,se,ft,data scientist,167000,usd,167000,us,100,us,m
+2022,se,ft,data engineer,60000,gbp,73880,gb,0,gb,m
+2022,se,ft,data engineer,50000,gbp,61566,gb,0,gb,m
+2022,se,ft,data scientist,211500,usd,211500,us,100,us,m
+2022,se,ft,data scientist,138600,usd,138600,us,100,us,m
+2022,se,ft,data architect,192400,usd,192400,ca,100,ca,m
+2022,se,ft,data architect,90700,usd,90700,ca,100,ca,m
+2022,se,ft,data analyst,130000,usd,130000,ca,100,ca,m
+2022,se,ft,data analyst,61300,usd,61300,ca,100,ca,m
+2022,se,ft,data engineer,160000,usd,160000,us,0,us,l
+2022,se,ft,data engineer,113000,usd,113000,us,0,us,l
+2022,se,ft,data scientist,95550,usd,95550,us,0,us,m
+2022,mi,ft,data analyst,167000,usd,167000,us,100,us,m
+2022,mi,ft,data analyst,115500,usd,115500,us,100,us,m
+2022,se,ft,data engineer,243900,usd,243900,us,100,us,m
+2022,se,ft,data engineer,156600,usd,156600,us,100,us,m
+2022,se,ft,data analyst,136600,usd,136600,us,100,us,m
+2022,se,ft,data engineer,128875,usd,128875,us,100,us,m
+2022,se,ft,data engineer,93700,usd,93700,us,100,us,m
+2022,ex,ft,head of data science,224000,usd,224000,us,100,us,m
+2022,ex,ft,head of data science,167875,usd,167875,us,100,us,m
+2022,ex,ft,analytics engineer,175000,usd,175000,us,100,us,m
+2022,ex,ft,analytics engineer,135000,usd,135000,us,100,us,m
+2022,se,ft,data scientist,205300,usd,205300,us,0,us,l
+2022,se,ft,data scientist,176000,usd,176000,us,100,us,m
+2022,se,ft,data engineer,200100,usd,200100,us,100,us,m
+2022,se,ft,data engineer,70500,usd,70500,us,0,us,m
+2022,se,ft,data engineer,54000,usd,54000,us,0,us,m
+2022,se,ft,data scientist,205300,usd,205300,us,0,us,m
+2022,se,ft,data scientist,140400,usd,140400,us,0,us,m
+2022,se,ft,analytics engineer,205300,usd,205300,us,0,us,m
+2022,se,ft,analytics engineer,184700,usd,184700,us,0,us,m
+2022,se,ft,data engineer,175100,usd,175100,us,100,us,m
+2022,se,ft,data engineer,140250,usd,140250,us,100,us,m
+2022,se,ft,data analyst,116150,usd,116150,us,100,us,m
+2022,se,ft,data analyst,99050,usd,99050,us,100,us,m
+2022,mi,ft,data analyst,85000,usd,85000,ca,0,ca,m
+2022,mi,ft,data analyst,75000,usd,75000,ca,0,ca,m
+2022,se,ft,machine learning engineer,214000,usd,214000,us,100,us,m
+2022,se,ft,machine learning engineer,192600,usd,192600,us,100,us,m
+2022,se,ft,data architect,266400,usd,266400,us,100,us,m
+2022,se,ft,data architect,213120,usd,213120,us,100,us,m
+2022,mi,ft,data scientist,141300,usd,141300,us,0,us,m
+2022,mi,ft,data scientist,102100,usd,102100,us,0,us,m
+2022,mi,ft,data engineer,206699,usd,206699,us,0,us,m
+2022,mi,ft,data engineer,99100,usd,99100,us,0,us,m
+2022,se,ft,data engineer,110500,usd,110500,us,100,us,m
+2022,mi,ft,data analyst,50000,gbp,61566,gb,0,gb,m
+2022,mi,ft,data analyst,35000,gbp,43096,gb,0,gb,m
+2022,se,ft,data analyst,80000,usd,80000,us,100,us,m
+2022,se,ft,data analyst,60000,usd,60000,us,100,us,m
+2022,se,ft,data scientist,230000,usd,230000,us,100,us,m
+2022,se,ft,data analytics manager,150260,usd,150260,us,100,us,m
+2022,se,ft,data analytics manager,109280,usd,109280,us,100,us,m
+2022,mi,ft,data scientist,160000,usd,160000,us,100,us,m
+2022,en,ft,data analyst,67000,usd,67000,ca,0,ca,m
+2022,en,ft,data analyst,52000,usd,52000,ca,0,ca,m
+2022,se,ft,data analyst,129000,usd,129000,us,0,us,m
+2022,se,ft,data analyst,69000,usd,69000,us,100,us,m
+2022,se,ft,data engineer,25000,usd,25000,us,100,us,m
+2022,se,ft,data analyst,126500,usd,126500,us,100,us,m
+2022,se,ft,data analyst,106260,usd,106260,us,100,us,m
+2022,se,ft,data engineer,220110,usd,220110,us,100,us,m
+2022,se,ft,data engineer,160080,usd,160080,us,100,us,m
+2022,se,ft,data analyst,105000,usd,105000,us,100,us,m
+2022,mi,ft,data analyst,135000,usd,135000,us,100,us,m
+2022,mi,ft,data analyst,50000,usd,50000,us,100,us,m
+2022,se,ft,data scientist,220000,usd,220000,us,100,us,m
+2022,mi,ft,data scientist,140000,gbp,172386,gb,0,gb,m
+2022,mi,ft,data scientist,70000,gbp,86193,gb,0,gb,m
+2022,se,ft,machine learning engineer,220000,usd,220000,us,100,us,m
+2022,se,ft,machine learning engineer,120000,usd,120000,us,100,us,m
+2022,mi,ft,data scientist,200000,usd,200000,us,100,us,m
+2022,se,ft,machine learning engineer,120000,usd,120000,ae,100,ae,s
+2022,se,ft,machine learning engineer,65000,usd,65000,ae,100,ae,s
+2022,ex,ft,data engineer,216000,usd,216000,us,100,us,m
+2022,se,ft,data scientist,185100,usd,185100,us,100,us,m
+2022,se,ft,data scientist,104890,usd,104890,us,100,us,m
+2022,mi,ft,machine learning developer,100000,cad,76814,ca,100,ca,m
+2022,ex,ft,director of data science,250000,cad,192037,ca,50,ca,l
+2022,mi,ft,machine learning engineer,120000,usd,120000,us,100,us,s
+2022,mi,ft,machine learning infrastructure engineer,53000,eur,55685,pt,50,pt,l
+2022,mi,pt,data engineer,50000,eur,52533,de,50,de,l
+2022,mi,ft,applied machine learning scientist,75000,usd,75000,bo,100,us,l
+2022,mi,ft,applied data scientist,157000,usd,157000,us,100,us,l
+2022,mi,ft,business data analyst,90000,cad,69133,ca,50,ca,l
+2022,en,ft,data engineer,65000,usd,65000,us,100,us,s
+2022,se,ft,machine learning engineer,65000,eur,68293,ie,100,ie,s
+2021,mi,ft,data scientist,109000,usd,109000,us,50,us,l
+2022,mi,ft,data scientist,88000,cad,67597,ca,100,ca,m
+2022,en,ft,computer vision engineer,10000,usd,10000,pt,100,lu,m
+2022,mi,ft,data analyst,20000,usd,20000,gr,100,gr,s
+2021,se,ft,head of data,87000,eur,102839,si,100,si,l
+2022,se,ft,head of data,200000,usd,200000,my,100,us,m
+2022,en,ft,data scientist,66500,cad,51081,ca,100,ca,l
+2022,mi,ft,machine learning engineer,121000,aud,83864,au,100,au,l
+2022,en,ft,data scientist,40000,usd,40000,jp,100,my,l
+2022,mi,ft,head of data,30000,eur,31520,ee,100,ee,s
+2022,se,ft,machine learning engineer,57000,eur,59888,nl,100,nl,l
+2022,se,ft,research scientist,85000,eur,89306,fr,50,fr,l
+2022,en,ft,data scientist,120000,aud,83171,au,50,au,m
+2022,se,ft,data scientist,165000,usd,165000,us,100,us,m
+2022,mi,ft,machine learning scientist,153000,usd,153000,us,50,us,m
+2022,se,ft,data scientist,100000,usd,100000,br,100,us,m
+2022,se,ft,machine learning developer,100000,cad,76814,ca,100,ca,m
+2022,mi,ft,data scientist,150000,pln,33609,pl,100,pl,l
+2022,mi,ft,principal data analyst,75000,usd,75000,ca,100,ca,s
+2022,en,ct,applied machine learning scientist,29000,eur,30469,tn,100,cz,m
+2021,mi,ft,research scientist,69999,usd,69999,cz,50,cz,l
+2022,en,ft,data engineer,52800,eur,55475,pk,100,de,m
+2022,mi,ft,research scientist,59000,eur,61989,at,0,at,l
+2022,se,ft,data science manager,152500,usd,152500,us,100,us,m
+2022,en,ft,research scientist,120000,usd,120000,us,100,us,l
+2022,mi,ft,data scientist,135000,usd,135000,us,100,us,l
+2021,se,ft,data engineer,150000,usd,150000,us,0,us,l
+2021,se,ft,data science manager,240000,usd,240000,us,0,us,l
+2021,mi,ft,data analyst,135000,usd,135000,us,100,us,l
+2021,en,ft,data scientist,80000,usd,80000,us,100,us,m
+2022,mi,ft,data scientist,115000,chf,120402,ch,0,ch,l
+2022,se,ft,applied data scientist,177000,usd,177000,us,100,us,l
+2022,mi,ft,data engineer,62000,eur,65141,fr,100,fr,m
+2022,mi,ft,data scientist,48000,usd,48000,ru,100,us,s
+2022,en,ft,data analytics engineer,20000,usd,20000,pk,0,pk,m
+2021,se,ft,principal data scientist,220000,usd,220000,us,0,us,l
+2022,en,ft,computer vision software engineer,150000,usd,150000,au,100,au,s
+2021,mi,ft,data analyst,90000,usd,90000,us,100,us,m
+2022,mi,fl,data scientist,100000,usd,100000,ca,100,us,m
+2021,en,ft,data scientist,100000,usd,100000,us,0,us,s
+2022,en,pt,data scientist,100000,usd,100000,dz,50,dz,m
+2022,se,ft,research scientist,144000,usd,144000,us,50,us,l
+2022,se,ft,principal data scientist,148000,eur,155499,de,100,de,m
+2021,se,ft,computer vision engineer,24000,usd,24000,br,100,br,m
+2021,mi,ft,applied machine learning scientist,38400,usd,38400,vn,100,us,m
+2022,en,ft,financial data analyst,100000,usd,100000,us,50,us,l
+2021,mi,ft,data scientist,82500,usd,82500,us,100,us,s
+2021,en,ft,data scientist,42000,eur,49646,fr,50,fr,m
+2022,en,ft,data engineer,120000,usd,120000,us,100,us,m
+2022,se,ft,lead machine learning engineer,80000,eur,84053,de,0,de,m
+2021,en,ft,machine learning engineer,20000,usd,20000,in,100,in,s
+2022,en,ft,computer vision engineer,125000,usd,125000,us,0,us,m
+2021,se,ft,machine learning scientist,120000,usd,120000,us,50,us,s
+2021,en,pt,data analyst,8760,eur,10354,es,50,es,m
+2021,en,ft,applied data scientist,80000,gbp,110037,gb,0,gb,l
+2022,en,ft,ml engineer,20000,eur,21013,pt,100,pt,l
+2021,en,ft,data analyst,50000,usd,50000,us,100,us,m
+2021,se,ft,principal data engineer,200000,usd,200000,us,100,us,m
+2021,mi,ft,big data engineer,60000,usd,60000,es,50,ro,m
+2021,mi,ft,data engineer,200000,usd,200000,us,100,us,l
+2021,en,ft,machine learning developer,100000,usd,100000,iq,50,iq,s
+2021,mi,ft,data engineer,100000,usd,100000,us,100,us,l
+2021,se,ft,machine learning engineer,70000,eur,82744,be,50,be,m
+2021,mi,ft,research scientist,53000,eur,62649,fr,50,fr,m
+2021,mi,ft,data engineer,60000,gbp,82528,gb,100,gb,l
+2021,mi,ft,data architect,170000,usd,170000,us,100,us,l
+2021,mi,ft,data architect,150000,usd,150000,us,100,us,l
+2021,en,ft,bi data analyst,55000,usd,55000,us,50,us,s
+2021,ex,ft,director of data science,250000,usd,250000,us,0,us,l
+2021,en,ft,data engineer,80000,usd,80000,us,100,us,l
+2021,ex,ft,director of data science,110000,eur,130026,de,50,de,m
+2021,en,ft,data science consultant,54000,eur,63831,de,50,de,l
+2021,ex,ft,head of data science,85000,usd,85000,ru,0,ru,m
+2021,ex,ft,head of data,230000,usd,230000,ru,50,ru,l
+2021,en,ft,machine learning engineer,125000,usd,125000,us,100,us,s
+2021,se,ft,data analytics manager,120000,usd,120000,us,100,us,m
+2021,se,ft,data science engineer,159500,cad,127221,ca,50,ca,l
+2021,se,ft,data science manager,144000,usd,144000,us,100,us,l
+2021,en,ft,data scientist,13400,usd,13400,ua,100,ua,l
+2021,mi,ft,data scientist,95000,cad,75774,ca,100,ca,l
+2021,mi,ft,data scientist,150000,usd,150000,us,100,us,m
+2021,se,ft,data engineer,153000,usd,153000,us,100,us,l
+2021,mi,ft,data engineer,90000,usd,90000,us,100,us,l
+2021,en,ft,data analyst,90000,usd,90000,us,100,us,s
+2021,en,ft,data analyst,60000,usd,60000,us,100,us,s
+2021,mi,ft,data scientist,50000,usd,50000,ng,100,ng,l
+2021,en,pt,ai scientist,12000,usd,12000,pk,100,us,m
+2021,mi,ct,ml engineer,270000,usd,270000,us,100,us,l
+2021,mi,ft,applied data scientist,68000,cad,54238,gb,50,ca,l
+2021,mi,ft,machine learning engineer,40000,eur,47282,es,100,es,s
+2021,ex,ft,director of data science,130000,eur,153667,it,100,pl,l
+2021,mi,ft,data engineer,110000,pln,28476,pl,100,pl,l
+2021,mi,ft,data analytics engineer,110000,usd,110000,us,100,us,l
+2021,en,ft,research scientist,60000,gbp,82528,gb,50,gb,l
+2021,en,ft,data analyst,50000,eur,59102,fr,50,fr,m
+2021,se,ft,data analyst,80000,usd,80000,bg,100,us,s
+2021,mi,ft,data engineer,140000,usd,140000,us,100,us,l
+2021,se,ft,data analytics engineer,67000,eur,79197,de,100,de,l
+2021,se,ft,lead data analyst,170000,usd,170000,us,100,us,l
+2021,en,ft,data analyst,80000,usd,80000,us,100,us,m
+2021,mi,ft,bi data analyst,100000,usd,100000,us,100,us,m
+2021,se,ft,data scientist,45000,eur,53192,fr,50,fr,l
+2021,ex,ft,head of data,235000,usd,235000,us,100,us,l
+2021,ex,ft,bi data analyst,150000,usd,150000,in,100,us,l
+2021,en,ft,machine learning scientist,225000,usd,225000,us,100,us,l
+2021,en,ft,data science consultant,65000,eur,76833,de,100,de,s
+2021,se,ft,marketing data analyst,75000,eur,88654,gr,100,dk,l
+2021,se,ft,lead data engineer,75000,gbp,103160,gb,100,gb,s
+2021,se,ft,data engineer,82500,gbp,113476,gb,100,gb,m
+2021,se,ft,machine learning engineer,80000,eur,94564,de,50,de,l
+2021,se,ft,data engineer,150000,usd,150000,us,100,us,m
+2021,se,ft,data engineer,115000,usd,115000,us,100,us,s
+2021,mi,ft,research scientist,235000,cad,187442,ca,100,ca,l
+2021,mi,ft,data analyst,37456,gbp,51519,gb,50,gb,l
+2021,se,ft,data engineer,150000,usd,150000,us,100,us,l
+2021,mi,ft,computer vision software engineer,81000,eur,95746,de,100,us,s
+2021,en,ft,computer vision software engineer,70000,usd,70000,us,100,us,m
+2021,mi,ft,cloud data engineer,120000,sgd,89294,sg,50,sg,l
+2021,se,ft,lead data engineer,276000,usd,276000,us,0,us,l
+2021,se,ft,cloud data engineer,160000,usd,160000,br,100,us,s
+2021,se,ft,data engineer,174000,usd,174000,us,100,us,l
+2021,mi,ft,data analyst,93000,usd,93000,us,100,us,l
+2021,se,ft,research scientist,51400,eur,60757,pt,50,pt,l
+2021,en,ft,data scientist,90000,usd,90000,us,100,us,s
+2021,se,ft,principal data analyst,170000,usd,170000,us,100,us,m
+2021,se,ft,data engineer,70000,gbp,96282,gb,50,gb,l
+2021,mi,ft,data engineer,108000,try,12103,tr,0,tr,m
+2021,en,ft,data scientist,31000,eur,36643,fr,50,fr,l
+2021,mi,ft,data engineer,52500,gbp,72212,gb,50,gb,l
+2021,se,ft,big data architect,125000,cad,99703,ca,50,ca,m
+2021,se,ft,data scientist,165000,usd,165000,us,100,us,l
+2021,mi,ft,data analyst,80000,usd,80000,us,100,us,l
+2021,se,ft,data scientist,130000,cad,103691,ca,100,ca,l
+2021,mi,ft,research scientist,80000,cad,63810,ca,100,ca,m
+2021,mi,ft,head of data science,110000,usd,110000,us,0,us,s
+2021,mi,ft,data architect,180000,usd,180000,us,100,us,l
+2021,se,ft,data analyst,200000,usd,200000,us,100,us,l
+2021,se,ft,data engineer,200000,usd,200000,us,100,us,l
+2021,se,ft,ml engineer,256000,usd,256000,us,100,us,s
+2021,mi,ft,data engineer,110000,usd,110000,us,100,us,l
+2021,en,ft,data engineer,72500,usd,72500,us,100,us,l
+2021,se,ft,machine learning engineer,185000,usd,185000,us,50,us,l
+2021,mi,pt,data engineer,59000,eur,69741,nl,100,nl,l
+2021,en,ft,research scientist,100000,usd,100000,je,0,cn,l
+2021,mi,ft,data engineer,112000,usd,112000,us,100,us,l
+2021,se,ft,data scientist,180000,try,20171,tr,50,tr,l
+2021,se,ft,ai scientist,55000,usd,55000,es,100,es,l
+2021,en,ft,data scientist,58000,usd,58000,us,50,us,l
+2021,en,ft,data scientist,100000,usd,100000,us,100,us,m
+2021,se,ft,data scientist,65720,eur,77684,fr,50,fr,m
+2021,en,ft,machine learning engineer,85000,usd,85000,nl,100,de,s
+2021,en,ft,data science consultant,65000,eur,76833,de,0,de,l
+2021,se,ct,staff data scientist,105000,usd,105000,us,100,us,m
+2021,en,ft,data engineer,55000,eur,65013,de,50,de,m
+2021,mi,ft,data engineer,250000,try,28016,tr,100,tr,m
+2021,mi,ft,data engineer,111775,usd,111775,us,0,us,m
+2021,mi,ft,data engineer,93150,usd,93150,us,0,us,m
+2021,se,ft,lead data engineer,160000,usd,160000,pr,50,us,s
+2021,mi,ft,data scientist,21600,eur,25532,rs,100,de,s
+2021,se,ft,data analyst,54000,eur,63831,de,50,de,l
+2021,ex,ft,director of data science,120000,eur,141846,de,0,de,l
+2021,se,ft,data analyst,90000,cad,71786,ca,100,ca,m
+2021,se,ft,data scientist,135000,usd,135000,us,0,us,l
+2021,en,ft,machine learning engineer,21000,eur,24823,de,50,de,m
+2021,en,ft,bi data analyst,9272,usd,9272,ke,100,ke,s
+2021,mi,ft,data scientist,147000,usd,147000,us,50,us,l
+2021,se,ft,research scientist,120500,cad,96113,ca,50,ca,l
+2021,se,ft,data science manager,174000,usd,174000,us,100,us,l
+2021,en,ft,machine learning engineer,21844,usd,21844,co,50,co,m
+2021,ex,ft,data science consultant,59000,eur,69741,fr,100,es,s
+2021,se,ft,data analytics engineer,50000,usd,50000,vn,100,gb,m
+2021,mi,ft,data engineer,22000,eur,26005,ro,0,us,l
+2021,mi,ft,data scientist,76760,eur,90734,de,50,de,l
+2021,en,ft,machine learning engineer,81000,usd,81000,us,50,us,s
+2021,en,ft,data science consultant,90000,usd,90000,us,100,us,s
+2021,mi,ft,data scientist,52000,eur,61467,de,50,at,m
+2021,se,ft,machine learning infrastructure engineer,195000,usd,195000,us,100,us,m
+2021,mi,ft,data scientist,32000,eur,37825,es,100,es,l
+2021,se,ft,machine learning scientist,225000,usd,225000,us,100,ca,l
+2021,mi,ft,data scientist,40900,gbp,56256,gb,50,gb,l
+2021,mi,ft,data scientist,85000,gbp,116914,gb,50,gb,l
+2021,mi,ft,machine learning engineer,180000,pln,46597,pl,100,pl,l
+2021,mi,ft,machine learning engineer,75000,eur,88654,be,100,be,m
+2021,en,pt,computer vision engineer,180000,dkk,28609,dk,50,dk,s
+2021,mi,ft,data scientist,75000,eur,88654,de,50,de,l
+2021,mi,ft,data engineer,48000,gbp,66022,hk,50,gb,s
+2021,mi,ft,research scientist,48000,eur,56738,fr,50,fr,s
+2021,mi,ft,machine learning engineer,21000,eur,24823,si,50,si,l
+2021,se,ft,data analytics manager,120000,usd,120000,us,0,us,l
+2021,mi,fl,data engineer,20000,usd,20000,it,0,us,l
+2021,se,ft,machine learning engineer,200000,usd,200000,us,100,us,l
+2021,mi,ft,data scientist,160000,usd,160000,us,100,us,l
+2021,se,ft,research scientist,50000,usd,50000,fr,100,us,s
+2021,mi,ft,data science engineer,34000,eur,40189,gr,100,gr,m
+2021,mi,ft,data scientist,69600,brl,12901,br,0,br,s
+2021,se,ft,data engineer,165000,usd,165000,us,0,us,m
+2021,se,ft,principal data engineer,185000,usd,185000,us,100,us,l
+2021,se,ft,data analytics manager,140000,usd,140000,us,100,us,l
+2021,se,ft,data scientist,110000,cad,87738,ca,100,ca,s
+2021,se,ft,finance data analyst,45000,gbp,61896,gb,50,gb,l
+2021,mi,fl,machine learning scientist,12000,usd,12000,pk,50,pk,m
+2021,se,ft,data engineer,65000,eur,76833,ro,50,gb,s
+2021,mi,ft,machine learning engineer,74000,usd,74000,jp,50,jp,s
+2021,se,ft,data science manager,152000,usd,152000,us,100,fr,l
+2021,mi,ft,big data engineer,18000,usd,18000,md,0,md,s
+2021,mi,ft,data scientist,130000,usd,130000,us,50,us,l
+2021,se,ft,computer vision engineer,102000,brl,18907,br,0,br,m
+2021,en,ft,business data analyst,50000,eur,59102,lu,100,lu,l
+2021,se,ft,principal data scientist,147000,eur,173762,de,100,de,m
+2021,mi,ft,data scientist,39600,eur,46809,es,100,es,m
+2021,mi,ft,data scientist,115000,usd,115000,us,50,us,l
+2021,se,ft,principal data scientist,235000,usd,235000,us,100,us,l
+2021,en,pt,ai scientist,12000,usd,12000,br,100,us,s
+2021,mi,ft,data analyst,75000,usd,75000,us,0,us,l
+2021,mi,ft,data analyst,62000,usd,62000,us,0,us,l
+2021,mi,ft,data scientist,73000,usd,73000,us,0,us,l
+2021,mi,ft,data engineer,38400,eur,45391,nl,100,nl,l
+2021,se,ft,director of data science,168000,usd,168000,jp,0,jp,s
+2021,mi,ft,data scientist,160000,sgd,119059,sg,100,il,m
+2021,mi,ft,data engineer,24000,eur,28369,mt,50,mt,l
+2021,se,ft,data specialist,165000,usd,165000,us,100,us,l
+2021,mi,ft,principal data scientist,151000,usd,151000,us,100,us,l
